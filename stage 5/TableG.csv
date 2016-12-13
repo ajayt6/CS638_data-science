@@ -1,0 +1,501 @@
+_id,ltable_ID,rtable_ID,ltable_Title,ltable_ReleaseDate,ltable_Directors,ltable_Runtime,rtable_Title,rtable_ReleaseDate,rtable_Directors,rtable_Runtime,Match
+25,3273,2,Cost of a Soul,5/19/11 0:00,Sean Kirkpatrick,90 minutes,Soul Surfer,4/8/11 0:00,Sean McNamara,106 minutes,0
+149,2194,4,Grown Ups 2,7/11/13 0:00,Dennis Dugan,101 minutes,Grown Ups 2,7/12/13 0:00,Dennis Dugan,100 minutes,1
+185,6478,7,Return to Sender,8/13/15 0:00,Fouad Mikati,105 minutes,Return to Sender,5/31/15 0:00,Fouad Mikati,95 minutes,1
+187,1332,8,Prisoners,9/19/13 0:00,Denis Villeneuve,153 minutes,Prisoners,9/21/13 0:00,Denis Villeneuve,153 minutes,1
+222,3214,12,Still Alice,1/15/15 0:00,"Wash Westmoreland, Richard Glatzer",99 minutes,Still Alice,12/5/14 0:00,"Wash Westmoreland, Richard Glatzer",99 minutes,1
+261,3152,13,Storm Surfers 3D,6/13/13 0:00,"Chris Nelius, Justin McMillan, Christopher Nelius",95 minutes,3-D Sex and Zen: Extreme Ecstasy,4/14/11 0:00,Christopher Sun,118 minutes,0
+413,7160,15,Devil's Due,1/16/14 0:00,"Matt Bettinelli-Olpin, Tyler Gillett",89 minutes,Devil's Due,1/17/14 0:00,"Matt Bettinelli-Olpin, Tyler Gillett",89 minutes,1
+582,6523,19,Red Line,"Dec 31,9999",Robert Kirbyson,87 minutes,RED,10/14/10 0:00,Robert Schwentke,111 minutes,0
+776,516,27,Now You See Me,5/30/13 0:00,Louis Leterrier,115 minutes,Now You See Me,5/31/13 0:00,Louis Leterrier,115 minutes,1
+785,6655,29,The Face of Love,3/6/14 0:00,Arie Posin,92 minutes,The Face of Love,3/7/14 0:00,Arie Posin,92 minutes,1
+797,583,32,Lego Scooby-Doo!: Haunted Hollywood,"Dec 31,9999",Rick Morales,75 minutes,Lego Scooby-Doo!: Haunted Hollywood,5/3/16 0:00,Rick Morales,75 minutes,1
+808,3516,32,LEGO DC Comics Super Heroes: Justice League: Cosmic Clash,2/8/16 0:00,Rick Morales,78 minutes,Lego Scooby-Doo!: Haunted Hollywood,5/3/16 0:00,Rick Morales,75 minutes,0
+864,30,34,Standoff,2/11/16 0:00,Adam Alleca,86 minutes,Standoff,1/3/16 0:00,Adam Alleca,86 minutes,1
+1285,3640,41,The Huntsman: Winter's War,4/21/16 0:00,Cedric Nicolas-Troyan,121 minutes,The Huntsman: Winter's War,4/22/16 0:00,Cedric Nicolas-Troyan,114 minutes,1
+1286,940,42,Nightcrawler,10/30/14 0:00,Dan Gilroy,117 minutes,Nightcrawler,10/31/14 0:00,Dan Gilroy,117 minutes,1
+1382,5488,43,Into The Storm,8/7/14 0:00,Steven Quale,89 minutes,Into the Storm,8/8/14 0:00,Steven Quale,89 minutes,1
+1583,1100,49,Frank Miller's Sin City: A Dame to Kill For,8/21/14 0:00,"Robert Rodriguez, Frank Miller (II), Frank A Miller, Frank Miller",102 minutes,To Kill a Mockingbird,12/25/62 0:00,Robert Mulligan,129 minutes,0
+1662,2281,50,Poltergeist,5/21/15 0:00,Gil Kenan,1 minutes,Poltergeist,5/22/15 0:00,Gil Kenan,93 minutes,1
+1711,2077,56,Backtrack,2/25/16 0:00,Michael Petroni,90 minutes,Backtrack,4/18/15 0:00,Michael Petroni,90 minutes,1
+1911,1933,57,The Keeper of Lost Causes (Kvinden i buret),6/16/16 0:00,Mikkel Norgaard,97 minutes,The Keeper of Lost Causes,10/10/13 0:00,Mikkel NÂ¿rgaard,100 minutes,0
+1913,3970,58,The World's End,8/22/13 0:00,Edgar Wright,109 minutes,The World's End,8/23/13 0:00,Edgar Wright,109 minutes,1
+2034,7046,60,Barbie Mariposa and Her Butterfly Fairy Friends,"Dec 31,9999","William Lau, Conrad Helten",79 minutes,Barbie as The Princess & the Pauper,9/28/04 0:00,William Lau,85 minutes,0
+2085,2669,60,Barbie In A Mermaid Tale 2,2/3/12 0:00,William Lau,75 minutes,Barbie as The Princess & the Pauper,9/28/04 0:00,William Lau,85 minutes,0
+2098,7156,61,Battlestar Galactica: Blood & Chrome,"Dec 31,9999",Jonas Pate,91 minutes,Battlestar Galactica: Blood & Chrome,11/9/12 0:00,Jonas Pate,91 minutes,1
+2123,2904,64,Her,12/17/13 0:00,Spike Jonze,126 minutes,Her,10/12/13 0:00,Spike Jonze,126 minutes,1
+2171,3155,67,The Purge,6/6/13 0:00,James DeMonaco,85 minutes,The Purge: Anarchy,7/18/14 0:00,James DeMonaco,104 minutes,0
+2232,3055,67,The Purge: Anarchy,7/17/14 0:00,James DeMonaco,104 minutes,The Purge: Anarchy,7/18/14 0:00,James DeMonaco,104 minutes,1
+2259,2544,68,The Little Death,6/25/15 0:00,Josh Lawson (II),97 minutes,The Little Death,6/26/15 0:00,Josh Lawson (II),96 minutes,1
+2430,2244,72,Jackass Presents: Bad Grandpa,10/24/13 0:00,Jeff Tremaine,92 minutes,Bad Grandpa,10/25/13 0:00,Jeff Tremaine,92 minutes,0
+2726,4506,76,One More Time (When I Live My Life Over Again),4/7/16 0:00,Robert Edwards,97 minutes,Rogue One: A Star Wars Story,12/16/16 0:00,Gareth Edwards,0 minutes,0
+2835,2258,80,The Lobster,5/12/16 0:00,Yorgos Lanthimos,118 minutes,The Lobster,9/27/15 0:00,Yorgos Lanthimos,118 minutes,1
+2943,652,85,Monsters Wanted,"Dec 31,9999","Brian Cunningham, Joe Laughrey",0,Hero Wanted,3/28/08 0:00,Brian Smrz,95 minutes,0
+2957,4487,85,UnHung Hero,12/5/13 0:00,Brian Spitz,84 minutes,Hero Wanted,3/28/08 0:00,Brian Smrz,95 minutes,0
+3023,3355,86,Talihina Sky: The Story of Kings of Leon,"Dec 31,9999","Stephen Mitchell, Stephen C. Mitchell",87 minutes,The League of Extraordinary Gentlemen,7/11/03 0:00,Stephen Norrington,110 minutes,0
+3041,4166,86,Dolly Parton's Coat of Many Colors,"Dec 31,9999",Stephen Herek,180 minutes,The League of Extraordinary Gentlemen,7/11/03 0:00,Stephen Norrington,110 minutes,0
+3055,7139,86,The Poltergeist of Borley Forest,8/30/13 0:00,Stephen McKendree,102 minutes,The League of Extraordinary Gentlemen,7/11/03 0:00,Stephen Norrington,110 minutes,0
+3058,7144,86,The Perks of Being a Wallflower,9/20/12 0:00,Stephen Chbosky,103 minutes,The League of Extraordinary Gentlemen,7/11/03 0:00,Stephen Norrington,110 minutes,0
+3060,6611,86,Star of Midnight,4/18/35 0:00,"Stephen Roberts, Stephen R. Roberts",90 minutes,The League of Extraordinary Gentlemen,7/11/03 0:00,Stephen Norrington,110 minutes,0
+3300,3876,89,Victor Frankenstein,11/24/15 0:00,Paul McGuigan,109 minutes,Victor Frankenstein,11/10/15 0:00,Paul McGuigan,109 minutes,1
+3427,2119,90,Dark Tide,4/11/12 0:00,John Stockwell,103 minutes,After the Dark,2/7/14 0:00,John Huddles,100 minutes,0
+3506,7066,90,After the Dark,2/6/14 0:00,John Huddles,107 minutes,After the Dark,2/7/14 0:00,John Huddles,100 minutes,1
+3513,1244,90,Dark Power,"Dec 31,9999","John Milton Branton, Jeffrey C. Robinson",99 minutes,After the Dark,2/7/14 0:00,John Huddles,100 minutes,0
+3549,1807,91,No Good Deed,9/11/14 0:00,Sam Miller,84 minutes,No Good Deed,9/12/14 0:00,Sam Miller,84 minutes,1
+3566,558,91,Like There's No Tomorrow,"Dec 31,9999","Max Bervy, Warren Miller",98 minutes,No Good Deed,9/12/14 0:00,Sam Miller,84 minutes,0
+3690,6133,93,Thunder and the House of Magic,9/4/14 0:00,"Ben Stassen, Jeremie Degruson, Jeremy Degruson",85 minutes,Tropic Thunder,8/13/08 0:00,Ben Stiller,107 minutes,0
+3854,883,95,Harry Potter and the Deathly Hallows - Part 2,7/14/11 0:00,David Yates (II),131 minutes,Harry Potter and the Deathly Hallows: Part 2,7/15/11 0:00,David Yates,130 minutes,0
+3988,2734,99,The Skeleton Twins,9/11/14 0:00,"Rian Johnson, Craig Johnson (IV)",93 minutes,The Skeleton Twins,9/12/14 0:00,"Rian Johnson, Craig Johnson (IV)",90 minutes,1
+4068,1940,101,All Roads Lead to Rome,2/4/16 0:00,Ella Lemhagen,90 minutes,All Roads Lead to Rome,2/5/16 0:00,Ella Lemhagen,90 minutes,1
+4183,1779,106,Cesar Chavez,3/27/14 0:00,Diego Luna,101 minutes,Cesar Chavez,3/28/14 0:00,Diego Luna,102 minutes,1
+4352,142,110,The ABCs of Death,3/7/13 0:00,"Angela Bettis, Jake West, Tak Sakaguchi, Yudai Yamaguchi, Christopher Smith, Anders Morgenthaler, Simon Rumley, Banjong Pisanthanakun, Adrian Garcâ€™a Bogliano, Ti West, Xavier Gens, Andrew Traucki, Adam Wingard, Ernesto Dâ€™az Espinoza, Nacho Vigalondo, Noboru Iguchi, Jon Schnepp, Bruno Forzani, HÅ_lÂène Cattet, Yoshihiro Nishimura, Marcel Sarmiento, Jorge Michel Grau, Ben Wheatley, Srdjan Spasojevic, Thomas Malling Cappelen, Jason Eisener, Kaare Andrews, Simon Barrett, Timo Tjahjanto, Lee Hardcastle, Simon Barrette",129 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4354,5521,110,Battle of the Year,9/19/13 0:00,Benson Lee,109 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4362,4251,110,Paul Goodman Changed My Life,10/18/11 0:00,Jonathan Lee,89 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4377,4283,110,The Return of Johnny V,"Dec 31,9999","Aaron Lopez, Aaron Lee Lopez, Ryan B. Young",90 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4384,5574,110,Island of Lost Souls,2/8/07 0:00,"Nikolaj Arcel, Lee Sang-hoon II",100 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4389,5715,110,Da Sweet Blood of Jesus,2/12/15 0:00,Spike Lee,123 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4399,5094,110,Life of Pi,11/20/12 0:00,Ang Lee,127 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,1
+4407,2682,110,The Age of Adaline,4/23/15 0:00,Lee Toland Krieger,112 minutes,Life of Pi,11/21/12 0:00,Ang Lee,127 minutes,0
+4425,6259,112,The Grandmaster,8/22/13 0:00,Kar-Wai Wong,130 minutes,The Grandmaster,8/30/13 0:00,Kar-Wai Wong,130 minutes,1
+4435,4360,113,Black Mountain Side,"Dec 31,9999",Nick Szostakiwskyj,99 minutes,Little Black Book,8/6/04 0:00,Nick Hurran,111 minutes,0
+4703,7192,116,Knock Knock 2 (1666),"Dec 31,9999",Chris Sheng,84 minutes,Despicable Me 2,7/3/13 0:00,"Chris Renaud,Pierre Coffin",98 minutes,0
+4754,5031,116,ABCs of Death 2,10/30/14 0:00,"Vincenzo Natali, Larry Fessenden, Various, Bill Plympton, Robert Morgan, Julian Gilbey, Todd Rohal, Julian Barratt, Chris Nash, Alexandre Bustillo, Erik Matti, Lancelot Oduwa Imasuen, Julien Maury, Rodney Ascher, Dennison Ramalho, Kristina Buozyte, Juan Martâ€™nez Moreno, Alejandro BruguÅ_s, Marvin Kren, Evan Katz, Jen Soska, Sylvia Soska , Rob Boocheck, Jerome Sable, Ahron Keshales, Navot Papushado, Bruno Samper, Jim Hosking, Sâ„¢ichi Umezawa, Steven Kostanski, Hajime Ohata",125 minutes,Despicable Me 2,7/3/13 0:00,"Chris Renaud,Pierre Coffin",98 minutes,0
+4761,2622,116,Despicable Me 2,7/2/13 0:00,"Chris Renaud, Pierre Coffin",98 minutes,Despicable Me 2,7/3/13 0:00,"Chris Renaud, Pierre Coffin",98 minutes,1
+4782,6237,117,Batman v Superman: Dawn of Justice,3/22/16 0:00,Zack Snyder,151 minutes,Legend of the Guardians: The Owls of Ga'Hoole,9/24/10 0:00,Zack Snyder,97 minutes,0
+4783,63,117,Man of Steel,6/13/13 0:00,Zack Snyder,143 minutes,Legend of the Guardians: The Owls of Ga'Hoole,9/24/10 0:00,Zack Snyder,97 minutes,0
+4925,5071,120,16 Acres,11/15/12 0:00,Richard Hankin,96 minutes,16 Blocks,3/3/06 0:00,Richard Donner,105 minutes,0
+4998,4943,121,Doomsday Prophecy,"Dec 31,9999",Jason Bourque,92 minutes,Doomsday Prophecy,8/13/11 0:00,Jason Bourque,89 minutes,1
+5044,828,122,I Don't Know How She Does It,9/15/11 0:00,Douglas McGrath,89 minutes,I Don't Know How She Does It,9/16/11 0:00,Douglas McGrath,89 minutes,1
+5048,669,123,Declaration of War,1/26/12 0:00,ValÅ_rie Donzelli,100 minutes,Declaration of War,6/5/12 0:00,ValÅ_rie Donzelli,100 minutes,1
+5056,3184,124,Halo 4: Forward Unto Dawn,12/3/12 0:00,Stewart Hendler,90 minutes,Halo 4: Forward Unto Dawn,10/5/12 0:00,Stewart Hendler,92 minutes,1
+5256,7236,128,Catch .44,12/8/11 0:00,Aaron Harvey,93 minutes,Catch .44,12/9/11 0:00,Aaron Harvey,93 minutes,1
+5724,23,138,Company of Heroes,"Dec 31,9999",Don Michael Paul,90 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5731,5666,138,World of the Dead: The Zombie Diaries 2,10/30/11 0:00,"Kevin Gates, Michael Bartlett",88 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5737,3638,138,Jarhead 2: Field of Fire,"Dec 31,9999",Don Michael Paul,103 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5746,6218,138,A Short History Of Decay,5/15/14 0:00,Michael Maren,93 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5757,2652,138,Transformers: Age of Extinction,6/26/14 0:00,Michael Bay,157 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,1
+5758,5728,138,Berserk: The Golden Age Arc 2 - The Battle for Doldrey,"Dec 31,9999","Michael Sinterniklaas, Toshiyuki Kubooka",100 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5762,3692,138,Pathfinders: In the Company of Strangers,11/29/10 0:00,"Michael Conner Humphreys, Curt A. Sindelar",91 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5765,6265,138,A Conspiracy of Lies: Flight 370 to 911,"Dec 31,9999",Michael J. Long,58 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5766,2240,138,Scooby-Doo! Mask of the Blue Falcon,"Dec 31,9999",Michael Goguen,77 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5784,2215,138,13 Hours: The Secret Soldiers Of Benghazi,1/14/16 0:00,Michael Bay,144 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5789,5813,138,The Sweeter Side of Life,"Dec 31,9999",Michael Damian,81 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5794,4288,138,The Look of Love,7/4/13 0:00,Michael Winterbottom,105 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5795,705,138,Fifty Shades of Black,1/28/16 0:00,Michael Tiddes,93 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5800,1230,138,Seed of Darkness,"Dec 31,9999",Michael Chuah,101 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5802,5332,138,Decline Of An Empire,"Dec 31,9999",Michael Redwood,106 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5830,2326,138,"For Us, the Living: The Story of Medgar Evers","Dec 31,9999",Michael Schultz,84 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5835,4893,138,Beats Rhymes & Life: The Travels of a Tribe Called Quest,7/7/11 0:00,Michael Rapaport,98 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5836,2339,138,The Magic Of Heineken,10/1/14 0:00,Michael John Warren,79 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5857,7003,138,The Face Of An Angel,6/18/15 0:00,Michael Winterbottom,100 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5864,4973,138,Code of Honor,5/5/16 0:00,Michael Winnick,106 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5866,6969,138,The Best Of Me,10/16/14 0:00,Michael Hoffman,119 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5884,3492,138,Tales of the Night,9/25/12 0:00,"Michel Ocelot, Michael Ocelot",84 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5891,945,138,Loss of Life,"Dec 31,9999","David Damiata, Michael Matteo Rossi",78 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5892,4024,138,Open Sesame: The Story of Seeds,"Dec 31,9999","Michael Sean Kaminsky, M. Sean Kaminsky",82 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5894,5054,138,Ice Age: Continental Drift,7/12/12 0:00,"Steve Martino, Michael Thurmeier",87 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5898,4043,138,Rickover: The Birth of Nuclear Power,"Dec 31,9999",Michael Pack,116 minutes,Transformers: Age of Extinction,6/27/14 0:00,Michael Bay,165 minutes,0
+5927,6422,139,Knock Knock,10/8/15 0:00,Eli Roth,99 minutes,Knock Knock,1/23/15 0:00,Eli Roth,99 minutes,1
+5930,6722,140,I'm So Excited!,6/27/13 0:00,Pedro Almodâ€”var,90 minutes,I'm So Excited!,6/28/13 0:00,Pedro Almodâ€”var,90 minutes,1
+5994,3562,142,31,10/20/16 0:00,Rob Zombie,103 minutes,31,1/23/16 0:00,Rob Zombie,102 minutes,1
+6338,1511,147,Blue Jasmine,7/25/13 0:00,Woody Allen,98 minutes,Blue Jasmine,7/26/13 0:00,Woody Allen,98 minutes,1
+6433,1386,150,Deathgasm,10/1/15 0:00,Jason Lei Howden,90 minutes,Deathgasm,10/2/15 0:00,Jason Lei Howden,86 minutes,1
+6453,7208,151,Labor Day,1/30/14 0:00,Jason Reitman,110 minutes,Draft Day,4/11/14 0:00,Ivan Reitman,109 minutes,0
+6455,1280,151,Draft Day,4/10/14 0:00,Ivan Reitman,109 minutes,Draft Day,4/11/14 0:00,Ivan Reitman,109 minutes,1
+6456,1345,152,The Bible Belt Slasher Pt. II: The Holy Terror!,4/12/13 0:00,Bradley Creanzo,105 minutes,The Hunchback of Notre Dame II,3/19/02 0:00,Bradley Raymond,68 minutes,0
+6499,1991,156,Promised Land,1/3/13 0:00,Gus Van Sant,106 minutes,Promised Land,12/28/12 0:00,Gus Van Sant,106 minutes,1
+6533,2436,159,Steve McQueen: The Man & Le Mans,11/12/15 0:00,"Jon McKenna, Gabriel Clarke, John McKenna",112 minutes,Iron Man 2,5/7/10 0:00,Jon Favreau,124 minutes,0
+6573,1132,159,Bomb It 2,9/30/10 0:00,Jon Reiss,67 minutes,Iron Man 2,5/7/10 0:00,Jon Favreau,124 minutes,0
+6580,6806,159,Now You See Me 2,6/9/16 0:00,Jon M. Chu,115 minutes,Iron Man 2,5/7/10 0:00,Jon Favreau,124 minutes,0
+6624,3704,163,Khumba,12/5/13 0:00,Anthony Silverston,85 minutes,Khumba,12/7/13 0:00,Anthony Silverston,85 minutes,1
+6719,6399,166,Nine Miles Down,10/30/09 0:00,Anthony Waller,86 minutes,Nine Miles Down,10/1/09 0:00,Anthony Waller,86 minutes,1
+6721,6021,167,Could This Be Love? (Je crois que je l'aime),2/7/07 0:00,"Pierre Jolivet, Cardinal Lamberto",88 minutes,Down by Love,3/2/16 0:00,Pierre Godeau,110 minutes,0
+6943,4131,174,Killer Joe,7/26/12 0:00,William Friedkin,102 minutes,Killer Joe,7/27/12 0:00,William Friedkin,102 minutes,1
+6986,1868,175,Nobody Walks,10/18/12 0:00,Ry Russo-Young,85 minutes,Nobody Walks,10/19/12 0:00,Ry Russo-Young,83 minutes,1
+6992,6190,179,Dragon Blade (Tian jiang xiong shi),9/3/15 0:00,Daniel Lee,103 minutes,"Crouching Tiger, Hidden Dragon",10/9/00 0:00,Ang Lee,120 minutes,0
+7051,4802,180,Take Me To The River,3/17/16 0:00,Matt Sobel,84 minutes,Let Me In,10/1/10 0:00,Matt Reeves,116 minutes,0
+7226,2754,183,Friends With Kids,3/8/12 0:00,Jennifer Westfeldt,107 minutes,Friends with Kids,3/9/12 0:00,Jennifer Westfeldt,100 minutes,1
+7308,3756,185,Hugo,11/22/11 0:00,Martin Scorsese,126 minutes,Hugo,11/23/11 0:00,Martin Scorsese,126 minutes,1
+7325,4870,186,Cloned: The Recreator Chronicles,4/22/12 0:00,Gregory Orr,90 minutes,CLONED: The Recreator Chronicles,2/17/12 0:00,Gregory Orr,91 minutes,1
+7338,6424,187,Barbie: Spy Squad,"Dec 31,9999","Conrad Helten, Zeke Norton",75 minutes,Barbie in Princess Power,3/3/15 0:00,Zeke Norton,74 minutes,0
+7339,6090,187,Barbie: The Pearl Princess,1/31/14 0:00,"Terry Klassen, Ezekiel Norton, Terry Klassen",74 minutes,Barbie in Princess Power,3/3/15 0:00,Zeke Norton,74 minutes,0
+7340,5550,187,Barbie In Princess Power,3/2/15 0:00,"Ezekiel Norton, Zeke Norton",90 minutes,Barbie in Princess Power,3/3/15 0:00,"Ezekiel Norton, Zeke Norton",74 minutes,1
+7341,3519,187,Barbie: The Princess & the Popstar,"Dec 31,9999","Ezekiel Norton, Zeke Norton",76 minutes,Barbie in Princess Power,3/3/15 0:00,Zeke Norton,74 minutes,0
+7342,6560,187,Barbie: Princess Charm School,12/2/12 0:00,"Ezekiel Norton, Zeke Norton",86 minutes,Barbie in Princess Power,3/3/15 0:00,Zeke Norton,74 minutes,0
+7411,142,193,The ABCs of Death,3/7/13 0:00,"Angela Bettis, Jake West, Tak Sakaguchi, Yudai Yamaguchi, Christopher Smith, Anders Morgenthaler, Simon Rumley, Banjong Pisanthanakun, Adrian Garcâ€™a Bogliano, Ti West, Xavier Gens, Andrew Traucki, Adam Wingard, Ernesto Dâ€™az Espinoza, Nacho Vigalondo, Noboru Iguchi, Jon Schnepp, Bruno Forzani, HÅ_lÂène Cattet, Yoshihiro Nishimura, Marcel Sarmiento, Jorge Michel Grau, Ben Wheatley, Srdjan Spasojevic, Thomas Malling Cappelen, Jason Eisener, Kaare Andrews, Simon Barrett, Timo Tjahjanto, Lee Hardcastle, Simon Barrette",129 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,0
+7412,1551,193,The Kane Files: Life Of Trial,"Dec 31,9999","Ben Gourley, Benjamin Gourley, Ben Gourley",91 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,0
+7414,5910,193,John Portman: A Life Of Building,"Dec 31,9999",Ben Loeterman,60 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,0
+7424,4795,193,A Liar's Autobiography - The Untrue Story of Monty Python's Graham Chapman,11/1/12 0:00,"Bill Jones, Ben Timlett, Jeff Simpson (II), Bill Jones",82 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,0
+7434,467,193,The von Trapp Family: A Life of Music,"Dec 31,9999",Ben Verbong,98 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,0
+7438,6878,193,The Secret Life Of Walter Mitty,12/24/13 0:00,Ben Stiller,114 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,1
+7446,6133,193,Thunder and the House of Magic,9/4/14 0:00,"Ben Stassen, Jeremie Degruson, Jeremy Degruson",85 minutes,The Secret Life of Walter Mitty,12/25/13 0:00,Ben Stiller,114 minutes,0
+7483,5706,194,London Boulevard,11/10/11 0:00,William Monahan,93 minutes,London Boulevard,11/12/10 0:00,William Monahan,103 minutes,1
+7522,546,195,Seasons of Gray,10/17/13 0:00,"Paul Stehlik Jr., Robert T. Herrera",89 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7528,991,195,The Legend of Lylah Clare,11/14/68 0:00,Robert Aldrich,130 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7531,1072,195,Enemy of the Reich: The Noor Inayat Khan Story,"Dec 31,9999","Robert H. Gardner, Rob Gardner",60 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7532,5938,195,Merchants Of Doubt,3/5/15 0:00,Robert Kenner,96 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7533,6270,195,The Girl of the Golden West,3/7/38 0:00,Robert Z. Leonard,120 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7543,2808,195,The Strange Affair of Uncle Harry (Guilty of Murder?),8/16/45 0:00,Robert Siodmak,80 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7546,1509,195,Dead Walkers: Rise Of The 4th Reich,"Dec 31,9999","Philip Gardiner, Shaun Robert Smith",78 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7549,7261,195,A Strange Brand Of Happy,9/12/13 0:00,Brad Wise,95 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7557,4460,195,Secret of the Wings,8/30/12 0:00,"Robert Gannaway, Peggy Holmes, Bobs Gannaway",92 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7560,2161,195,In the Cool of the Day,2/28/63 0:00,Robert Stevens,89 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7563,2422,195,Best Of Enemies,7/30/15 0:00,"Robert Gordon, Morgan Neville",87 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7573,1248,195,Flight Of The Cardinal,"Dec 31,9999",Robert Gaston,87 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7585,5031,195,ABCs of Death 2,10/30/14 0:00,"Vincenzo Natali, Larry Fessenden, Various, Bill Plympton, Robert Morgan, Julian Gilbey, Todd Rohal, Julian Barratt, Chris Nash, Alexandre Bustillo, Erik Matti, Lancelot Oduwa Imasuen, Julien Maury, Rodney Ascher, Dennison Ramalho, Kristina Buozyte, Juan Martâ€™nez Moreno, Alejandro BruguÅ_s, Marvin Kren, Evan Katz, Jen Soska, Sylvia Soska , Rob Boocheck, Jerome Sable, Ahron Keshales, Navot Papushado, Bruno Samper, Jim Hosking, Sâ„¢ichi Umezawa, Steven Kostanski, Hajime Ohata",125 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7597,3522,195,Joan of Paris,12/31/41 0:00,Robert Stevenson,91 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7601,460,195,The Myth Of The American Sleepover,7/21/11 0:00,David Robert Mitchell,93 minutes,The Sound of Music,3/2/65 0:00,Robert Wise,174 minutes,0
+7682,6909,197,A Million Ways to Die in the West,5/29/14 0:00,Seth MacFarlane,116 minutes,A Million Ways to Die in the West,5/30/14 0:00,Seth MacFarlane,116 minutes,1
+7817,243,204,Emma's Wings: A Bella Sara Tale,"Dec 31,9999",Brian Duchscherer,0,A Knight's Tale,3/8/01 0:00,Brian Helgeland,132 minutes,0
+7886,1953,206,Back Door Channels: The Price Of Peace,9/15/11 0:00,Harry Hunkele,95 minutes,Lord of the Flies,3/16/90 0:00,Harry Hook,90 minutes,0
+7990,4347,208,Lone Survivor,1/9/14 0:00,Peter Berg,122 minutes,Lone Survivor,12/24/13 0:00,Peter Berg,121 minutes,1
+7994,1041,211,Open Grave,1/2/14 0:00,Gonzalo Lâ€”pez-Gallego,102 minutes,Open Grave,1/2/14 0:00,Gonzalo Lâ€”pez-Gallego,102 minutes,1
+8011,5261,213,Black Mass,9/17/15 0:00,Scott Cooper,120 minutes,Black Mass,9/18/15 0:00,Scott Cooper,122 minutes,1
+8059,2137,213,Black Cobra,5/21/12 0:00,"Donovan Scott, Lilly Melgar",88 minutes,Black Mass,9/18/15 0:00,Scott Cooper,122 minutes,0
+8304,1105,221,Schooled: The Price of College Sports,"Dec 31,9999","Trevor Martin, Jonathan Paley, Ross Finkel",87 minutes,The Wolf of Wall Street,12/25/13 0:00,Martin Scorsese,180 minutes,0
+8306,851,221,100 Ghost Street: The Return Of Richard Speck,"Dec 31,9999",Martin Andersen,90 minutes,The Wolf of Wall Street,12/25/13 0:00,Martin Scorsese,180 minutes,0
+8308,3029,221,Unsung Heroes: The Story of America's Female Patriots,"Dec 31,9999","Frank Martin, Franklin Martin",56 minutes,The Wolf of Wall Street,12/25/13 0:00,Martin Scorsese,180 minutes,0
+8320,5720,221,The Wolf of Wall Street,12/24/13 0:00,Martin Scorsese,179 minutes,The Wolf of Wall Street,12/25/13 0:00,Martin Scorsese,180 minutes,1
+8326,3762,221,The Doors: Mr. Mojo Risin - The Story of LA Woman,"Dec 31,9999",Martin R. Smith,94 minutes,The Wolf of Wall Street,12/25/13 0:00,Martin Scorsese,180 minutes,0
+8333,1443,222,Winter Sleep,12/18/14 0:00,Nuri Bilge Ceylan,196 minutes,Winter Sleep,12/19/14 0:00,Nuri Bilge Ceylan,196 minutes,1
+8412,37,225,Amphibious: Creature Of The Deep,"Dec 31,9999",Brian Yuzna,90 minutes,Casualties of War,8/18/89 0:00,Brian De Palma,113 minutes,0
+8428,4172,225,Ghost Rider: Spirit of Vengeance,2/16/12 0:00,"Mark Neveldine, Brian Taylor",95 minutes,Casualties of War,8/18/89 0:00,Brian De Palma,113 minutes,0
+8432,5205,225,The Internet's Own Boy: The Story of Aaron Swartz,6/26/14 0:00,Brian Knappenberger,105 minutes,Casualties of War,8/18/89 0:00,Brian De Palma,113 minutes,0
+8457,5780,225,Fading Of The Cries,7/7/11 0:00,Brian Metcalf,93 minutes,Casualties of War,8/18/89 0:00,Brian De Palma,113 minutes,0
+8470,6330,225,A Bag of Hammers,5/10/12 0:00,Brian Crano,87 minutes,Casualties of War,8/18/89 0:00,Brian De Palma,113 minutes,0
+8485,4582,225,Alien Boy: The Life And Death Of James Chasse,2/14/13 0:00,Brian Lindstrom,90 minutes,Casualties of War,8/18/89 0:00,Brian De Palma,113 minutes,0
+8558,2069,227,I'll See You in My Dreams,5/14/15 0:00,Brett Haley,95 minutes,I'll See You in My Dreams,1/27/15 0:00,Brett Haley,92 minutes,1
+8566,1706,227,My Fair Zombie,"Dec 31,9999",Brett Kelly,85 minutes,I'll See You in My Dreams,1/27/15 0:00,Brett Haley,92 minutes,0
+8587,1172,228,Miss Nobody,"Dec 31,9999",Tim Cox,90 minutes,Miss Peregrine's Home for Peculiar Children,9/30/16 0:00,Tim Burton,127 minutes,0
+8611,4346,228,Home,3/25/15 0:00,Tim Johnson,93 minutes,Miss Peregrine's Home for Peculiar Children,9/30/16 0:00,Tim Burton,127 minutes,0
+8741,4807,233,Rage,7/10/14 0:00,Paco Cabezas,98 minutes,Rage,5/9/14 0:00,Paco Cabezas,98 minutes,1
+8830,1950,238,Safety Not Guaranteed,6/7/12 0:00,Colin Trevorrow,86 minutes,Safety Not Guaranteed,6/8/12 0:00,Colin Trevorrow,85 minutes,1
+8896,7332,240,Fifty Shades of Grey,2/12/15 0:00,Sam Taylor-Johnson,110 minutes,Fifty Shades of Grey,2/13/15 0:00,Sam Taylor-Johnson,125 minutes,1
+8898,7255,240,The Return Of Joe Rich,"Dec 31,9999",Sam Auster,90 minutes,Fifty Shades of Grey,2/13/15 0:00,Sam Taylor-Johnson,125 minutes,0
+8902,5179,240,N.A.S.A.: The Spirit of Apollo,"Dec 31,9999","Sam Spiegel, Syd Garon",58 minutes,Fifty Shades of Grey,2/13/15 0:00,Sam Taylor-Johnson,125 minutes,0
+8914,2419,240,The Legend Of Six Fingers,"Dec 31,9999",Sam Qualiana,0,Fifty Shades of Grey,2/13/15 0:00,Sam Taylor-Johnson,125 minutes,0
+8919,3195,240,Stand Clear Of The Closing Doors,5/22/14 0:00,Sam Fleischner,130 minutes,Fifty Shades of Grey,2/13/15 0:00,Sam Taylor-Johnson,125 minutes,0
+8977,408,242,Stephen King's A Good Marriage,10/2/14 0:00,Peter Askin,90 minutes,The Good Dinosaur,11/25/15 0:00,Peter Sohn,93 minutes,0
+8978,3481,242,The Good Dinosaur,11/24/15 0:00,Peter Sohn,100 minutes,The Good Dinosaur,11/25/15 0:00,Peter Sohn,93 minutes,1
+9010,3453,242,A Good Old Fashioned Orgy,9/1/11 0:00,"Alex Gregory, Peter Huyck",95 minutes,The Good Dinosaur,11/25/15 0:00,Peter Sohn,93 minutes,0
+9064,3284,243,The Last Soul On A Summer Night,"Dec 31,9999",Daniel Nearing,72 minutes,The Last Exorcism,8/27/10 0:00,Daniel Stamm,87 minutes,0
+9277,863,249,The Forger,7/2/12 0:00,Lawrence Roeck,92 minutes,The Forger,3/9/11 0:00,Lawrence Roeck,96 minutes,1
+9279,2874,250,This is 40,12/20/12 0:00,Judd Apatow,134 minutes,This Is 40,12/21/12 0:00,Judd Apatow,134 minutes,1
+9438,4335,255,The Brass Teapot,4/4/13 0:00,Ramaa Mosley,101 minutes,The Brass Teapot,4/5/13 0:00,Ramaa Mosley,100 minutes,1
+9683,588,261,The Pyramid,12/4/14 0:00,"GrÅ_gory Levasseur, Simone Chiesa, Roberto Albanesi, Antonio Zannone, Alex Visani, Luca Alessandro",90 minutes,The Pyramid,12/5/14 0:00,"GrÅ_gory Levasseur, Simone Chiesa, Roberto Albanesi, Antonio Zannone, Alex Visani, Luca Alessandro",89 minutes,1
+9687,5423,262,Penguins Of Madagascar,11/25/14 0:00,"Eric Darnell, Simon J. Smith, Simon Smith, J.P. Simon",92 minutes,Journey to the Center of the Earth,7/11/08 0:00,Eric Brevig,93 minutes,0
+9709,4306,262,Chilling Visions: 5 Senses of Fear,5/15/13 0:00,"Miko Hughes, Nick Everhart, Emily Hagins, Andy Mitton, Eric England, Jesse Holland (II)",92 minutes,Journey to the Center of the Earth,7/11/08 0:00,Eric Brevig,93 minutes,0
+9712,2008,262,Four of Hearts,"Dec 31,9999","Darrin Dewitt Henson, Eric Haywood",99 minutes,Journey to the Center of the Earth,7/11/08 0:00,Eric Brevig,93 minutes,0
+9723,371,262,Heroes Of Dirt,9/3/15 0:00,Eric Bugbee,102 minutes,Journey to the Center of the Earth,7/11/08 0:00,Eric Brevig,93 minutes,0
+9725,6262,262,Conte d'hiver (A Tale of Winter),1/28/92 0:00,Eric Rohmer,114 minutes,Journey to the Center of the Earth,7/11/08 0:00,Eric Brevig,93 minutes,0
+9756,4417,263,4 Dead Girls: The Soul Taker,"Dec 31,9999","Todd Johnson, Mike Campbell",95 minutes,The Scorpion King 4: Quest for Power,1/21/15 0:00,Mike Elliott,105 minutes,0
+9772,5215,263,The Scorpion King 4: Quest for Power,"Dec 31,9999",Mike Elliott,65 minutes,The Scorpion King 4: Quest for Power,1/21/15 0:00,Mike Elliott,105 minutes,1
+9791,1467,264,Step Up: All In,8/7/14 0:00,Trish Sie,112 minutes,Step Up All In,7/25/14 0:00,Trish Sie,112 minutes,0
+9844,1867,266,Norwegian Wood,1/5/12 0:00,"Anh Hung Tran, No Zin Soo",133 minutes,Norwegian Wood,12/20/10 0:00,"Anh Hung Tran, No Zin Soo",133 minutes,1
+10028,2301,271,The Lone Ranger,7/2/13 0:00,Gore Verbinski,149 minutes,The Lone Ranger,7/3/13 0:00,Gore Verbinski,149 minutes,1
+10191,1371,273,Hateship Loveship,4/10/14 0:00,Liza Johnson,102 minutes,Hateship Loveship,4/11/14 0:00,Liza Johnson,103 minutes,1
+10367,1871,276,Ain't Them Bodies Saints,8/15/13 0:00,David Lowery,105 minutes,Ain't Them Bodies Saints,8/16/13 0:00,David Lowery,96 minutes,1
+10493,6761,277,Too Late Blues,11/6/61 0:00,John Cassavetes,100 minutes,The Blues Brothers,6/17/80 0:00,John Landis,133 minutes,0
+10890,2033,290,Operator,"Dec 31,9999","Amariah Olson, Obin Olson",84 minutes,Operator,8/21/15 0:00,"Amariah Olson, Obin Olson",88 minutes,1
+10911,4575,291,Beware Of Mr. Baker,11/27/12 0:00,Jay Bulger,100 minutes,The Dukes of Hazzard,8/5/05 0:00,Jay Chandrasekhar,104 minutes,0
+10926,3218,292,Money Monster,5/12/16 0:00,Jodie Foster,90 minutes,Money Monster,5/13/16 0:00,Jodie Foster,98 minutes,1
+10935,5369,294,Warrior,9/8/11 0:00,Gavin O'Connor,139 minutes,Warrior,9/9/11 0:00,Gavin O'Connor,140 minutes,1
+10967,4709,296,The Hobbit: An Unexpected Journey,12/13/12 0:00,Peter Jackson,170 minutes,Bill & Ted's Bogus Journey,7/19/91 0:00,Peter Hewitt,98 minutes,0
+11036,1028,297,Flight World War II,6/1/15 0:00,Emile Edwin Smith,85 minutes,The Land Before Time II: The Great Valley Adventure,12/13/94 0:00,Roy Allen Smith,73 minutes,0
+11117,412,298,Decoding Annie Parker,5/1/14 0:00,Steven Bernstein,100 minutes,Decoding Annie Parker,4/4/13 0:00,Steven Bernstein,91 minutes,1
+11171,1031,299,Sector 7,9/14/11 0:00,Kim Ji-Hoon,112 minutes,Sector 7,10/14/11 0:00,Kim Ji-Hoon,101 minutes,1
+11234,2648,300,Green Lantern,6/16/11 0:00,"Martin Campbell, Greg Berlanti",113 minutes,Green Lantern,6/16/11 0:00,"Martin Campbell, Greg Berlanti",114 minutes,1
+11552,3256,305,The Human Race,6/12/14 0:00,Paul Hough,88 minutes,Death Race,8/22/08 0:00,Paul W.S. Anderson,105 minutes,0
+11653,536,307,Coriolanus,1/12/11 0:00,Ralph Fiennes,124 minutes,Coriolanus,1/19/12 0:00,Ralph Fiennes,123 minutes,1
+11820,6902,309,Before Midnight,5/23/13 0:00,Richard Linklater,108 minutes,Before Sunset,2/10/04 0:00,Richard Linklater,77 minutes,0
+11859,4026,311,I Kissed A Vampire,"Dec 31,9999",Chris Sean Nolan,110 minutes,I Know Who Killed Me,7/27/07 0:00,Chris Sivertson,105 minutes,0
+11862,2622,311,Despicable Me 2,7/2/13 0:00,"Chris Renaud, Pierre Coffin",98 minutes,I Know Who Killed Me,7/27/07 0:00,Chris Sivertson,105 minutes,0
+12068,2652,318,Transformers: Age of Extinction,6/26/14 0:00,Michael Bay,157 minutes,Transformers: The Last Knight,6/23/17 0:00,Michael Bay,0 minutes,0
+12241,2762,319,Thomas & Friends: King Of The Railway,"Dec 31,9999","David Baas, Rob Silvestri",60 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12244,1681,319,Rise Of The Fellowship,12/2/13 0:00,"Ron Newcomb, Rob Newcomb",92 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12252,5258,319,Edge of Winter,8/11/16 0:00,Rob Connolly,90 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12254,993,319,The Magic of Belle Isle,7/5/12 0:00,Rob Reiner,109 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,1
+12258,5031,319,ABCs of Death 2,10/30/14 0:00,"Vincenzo Natali, Larry Fessenden, Various, Bill Plympton, Robert Morgan, Julian Gilbey, Todd Rohal, Julian Barratt, Chris Nash, Alexandre Bustillo, Erik Matti, Lancelot Oduwa Imasuen, Julien Maury, Rodney Ascher, Dennison Ramalho, Kristina Buozyte, Juan Martâ€™nez Moreno, Alejandro BruguÅ_s, Marvin Kren, Evan Katz, Jen Soska, Sylvia Soska , Rob Boocheck, Jerome Sable, Ahron Keshales, Navot Papushado, Bruno Samper, Jim Hosking, Sâ„¢ichi Umezawa, Steven Kostanski, Hajime Ohata",125 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12263,1072,319,Enemy of the Reich: The Noor Inayat Khan Story,"Dec 31,9999","Robert H. Gardner, Rob Gardner",60 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12266,4404,319,The Fundamentals of Caring,"Dec 31,9999",Rob Burnett,93 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12267,4981,319,Pirates of the Caribbean: On Stranger Tides,5/19/11 0:00,"Rob Marshall, Dariusz Wolski",137 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12271,3001,319,Enemies of the People,7/29/10 0:00,"Rob Lemkin, Thet Sambath",93 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12272,7053,319,Birth Of The Living Dead,11/5/13 0:00,Rob Kuhns,76 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12274,892,319,The Lords of Salem,4/18/13 0:00,Rob Zombie,101 minutes,The Magic of Belle Isle,7/6/12 0:00,Rob Reiner,109 minutes,0
+12496,3818,322,This Is Where I Leave You,9/18/14 0:00,Shawn Levy,103 minutes,This Is Where I Leave You,9/19/14 0:00,Shawn Levy,103 minutes,1
+12500,2346,322,Before I Disappear,11/27/14 0:00,Shawn Christensen,93 minutes,This Is Where I Leave You,9/19/14 0:00,Shawn Levy,103 minutes,0
+12502,5220,323,A Walk In The Woods,9/1/15 0:00,Ken Kwapis,98 minutes,A Walk in the Woods,9/2/15 0:00,Ken Kwapis,104 minutes,1
+12522,4939,324,The Other Man: F.W. de Klerk and the End of Apartheid,2/5/15 0:00,Nicolas Rossier,75 minutes,The Man Who Fell to Earth,5/28/76 0:00,Nicolas Roeg,138 minutes,0
+12524,4306,325,Chilling Visions: 5 Senses of Fear,5/15/13 0:00,"Miko Hughes, Nick Everhart, Emily Hagins, Andy Mitton, Eric England, Jesse Holland (II)",92 minutes,Forces of Nature,3/12/99 0:00,Bronwen Hughes,105 minutes,0
+12599,5778,326,Vice,1/15/15 0:00,Brian A. Miller,96 minutes,Vice,1/16/15 0:00,Brian A. Miller,96 minutes,1
+12657,5794,327,House of Dark Shadows,10/27/70 0:00,Dan Curtis,97 minutes,The Return of the Living Dead,8/16/85 0:00,Dan O'Bannon,91 minutes,0
+12678,983,327,Night of Dark Shadows,8/3/71 0:00,"Dan Curtis, Alex Stevens",97 minutes,The Return of the Living Dead,8/16/85 0:00,Dan O'Bannon,91 minutes,0
+12679,3161,327,Legends of Oz: Dorothy's Return,5/8/14 0:00,"Will Finn, Dan St. Pierre, Daniel St. Pierre",91 minutes,The Return of the Living Dead,8/16/85 0:00,Dan O'Bannon,91 minutes,0
+12688,1911,327,Katy Perry: Part of Me,7/4/12 0:00,"Dan Cutforth, Jane Lipsitz",93 minutes,The Return of the Living Dead,8/16/85 0:00,Dan O'Bannon,91 minutes,0
+12698,4532,329,Michael,2/14/12 0:00,Markus Schleinzer,98 minutes,Michael,5/12/11 0:00,Markus Schleinzer,96 minutes,1
+12797,3441,332,Sparks,2/28/14 0:00,"Christopher Folino, Todd Burrows",90 minutes,Sparks,3/1/13 0:00,"Christopher Folino, Todd Burrows",90 minutes,1
+12807,7008,333,Hotel Transylvania,9/27/12 0:00,Genndy Tartakovsky,91 minutes,Hotel Transylvania,9/27/12 0:00,Genndy Tartakovsky,91 minutes,1
+12960,3445,335,Captain America: The First Avenger,7/21/11 0:00,Joe Johnston,124 minutes,Captain America: The First Avenger,7/22/11 0:00,Joe Johnston,124 minutes,1
+12970,763,337,My Way,12/30/11 0:00,"Je-gyu Kang, Kang Je-Kyu",66 minutes,My Way,4/20/12 0:00,"Je-gyu Kang, Kang Je-Kyu",137 minutes,1
+13002,3829,339,Seeking Justice,3/15/12 0:00,Roger Donaldson,105 minutes,Seeking Justice,3/16/12 0:00,Roger Donaldson,105 minutes,1
+13155,264,342,Annabelle,10/2/14 0:00,John R. Leonetti,98 minutes,Annabelle,10/3/14 0:00,John R. Leonetti,99 minutes,1
+13253,4824,343,Macbeth,12/3/15 0:00,Justin Kurzel,113 minutes,Macbeth,12/4/15 0:00,Justin Kurzel,113 minutes,1
+13284,7047,344,Steve Jobs,10/22/15 0:00,Danny Boyle,123 minutes,Steve Jobs,9/5/15 0:00,Danny Boyle,122 minutes,1
+13317,3290,347,Ted,6/28/12 0:00,Seth MacFarlane,107 minutes,Ted,6/29/12 0:00,Seth MacFarlane,106 minutes,1
+13771,144,354,Wild Tales,2/19/15 0:00,Damiâ€¡n Szifron,122 minutes,Wild Tales,11/20/14 0:00,Damiâ€¡n Szifron,125 minutes,1
+14032,5834,362,That's My Boy,6/14/12 0:00,Sean Anders,116 minutes,That's My Boy,6/15/12 0:00,Sean Anders,116 minutes,1
+14126,4371,363,The Boy,8/17/15 0:00,Craig William Macneill,105 minutes,The Boy,1/22/16 0:00,Craig William Macneill,97 minutes,1
+14136,6140,363,The Boy,1/21/16 0:00,William Brent Bell,98 minutes,The Boy,1/22/16 0:00,William Brent Bell,97 minutes,1
+14143,1554,364,The Witch,3/31/16 0:00,Robert Eggers,92 minutes,The Witch,1/23/15 0:00,Robert Eggers,92 minutes,1
+14541,2682,366,The Age of Adaline,4/23/15 0:00,Lee Toland Krieger,112 minutes,The Age of Adaline,4/24/15 0:00,Lee Toland Krieger,112 minutes,1
+14674,3400,369,The Kid with a Bike,3/15/12 0:00,"Jean-Pierre Dardenne, Luc Dardenne",87 minutes,The Kid with a Bike,5/15/11 0:00,"Jean-Pierre Dardenne, Luc Dardenne",87 minutes,1
+14773,1667,373,The Skin I Live In,10/13/11 0:00,Pedro Almodâ€”var,117 minutes,The Skin I Live In,10/14/11 0:00,Pedro Almodâ€”var,117 minutes,1
+14820,5979,375,The Company You Keep,4/4/13 0:00,Robert Redford,121 minutes,The Company You Keep,4/4/13 0:00,Robert Redford,121 minutes,1
+14955,2361,380,"I, Frankenstein",1/23/14 0:00,Stuart Beattie,92 minutes,"I, Frankenstein",1/24/14 0:00,Stuart Beattie,92 minutes,1
+15068,3962,383,The SpongeBob Movie: Sponge Out of Water,2/5/15 0:00,Paul Tibbitt,100 minutes,The SpongeBob Movie: Sponge Out of Water,2/6/15 0:00,Paul Tibbitt,93 minutes,1
+15147,2769,385,God Bless America,5/10/12 0:00,Bobcat Goldthwait,104 minutes,God Bless America,5/11/12 0:00,Bobcat Goldthwait,104 minutes,1
+15368,785,389,Lola Versus,6/7/12 0:00,Daryl Wein,86 minutes,Lola Versus,4/24/12 0:00,Daryl Wein,87 minutes,1
+15629,970,392,Ice Age: A Mammoth Christmas,"Dec 31,9999",Karen Disher,26 minutes,Ice Age: A Mammoth Christmas,11/24/11 0:00,Karen Disher,26 minutes,1
+15984,3792,396,Machete Kills,10/10/13 0:00,Robert Rodriguez,108 minutes,Machete Kills,10/11/13 0:00,Robert Rodriguez,107 minutes,1
+16071,4677,400,Midnight in Paris,6/9/11 0:00,Woody Allen,94 minutes,Midnight in Paris,5/20/11 0:00,Woody Allen,94 minutes,1
+16326,1592,410,The Wedding Ringer,1/15/15 0:00,Jeremy Garelick,101 minutes,The Wedding Ringer,1/16/15 0:00,Jeremy Garelick,101 minutes,1
+16667,1860,416,Let Us Prey,"Dec 31,9999","Brian S. O'Malley, Brian S. O'Malley",89 minutes,Let Us Prey,3/25/15 0:00,"Brian S. O'Malley, Brian S. O'Malley",88 minutes,1
+16765,4315,418,Bad Words,3/27/14 0:00,Jason Bateman,89 minutes,Bad Words,3/14/14 0:00,Jason Bateman,88 minutes,1
+16862,1148,422,Love & Friendship,5/12/16 0:00,Whit Stillman,94 minutes,Love & Friendship,1/23/16 0:00,Whit Stillman,94 minutes,1
+16932,5070,423,The Nut Job,1/16/14 0:00,Peter Lepeniotis,86 minutes,The Nut Job,1/17/14 0:00,Peter Lepeniotis,85 minutes,1
+17190,4869,429,Kill the Messenger,10/9/14 0:00,Michael Cuesta,112 minutes,Kill the Messenger,10/10/14 0:00,Michael Cuesta,112 minutes,1
+17339,5564,432,Pound Of Flesh,5/14/15 0:00,Ernie Barbarash,104 minutes,Pound of Flesh,5/7/15 0:00,Ernie Barbarash,104 minutes,1
+17473,2318,435,"Monsters, Inc.",11/1/01 0:00,"Lee Unkrich, David Silverman, Peter Docter, Pete Docter",92 minutes,"Monsters, Inc.",10/28/01 0:00,"Lee Unkrich, David Silverman, Peter Docter, Pete Docter",92 minutes,1
+17617,3604,438,Thanks For Sharing,9/19/13 0:00,Stuart Blumberg,112 minutes,Thanks for Sharing,9/19/13 0:00,Stuart Blumberg,112 minutes,1
+17647,2540,440,The Girl King,12/3/15 0:00,Mika KaurismÅ ki,106 minutes,The Girl King,9/4/15 0:00,Mika KaurismÅ ki,106 minutes,1
+17860,644,443,Whiskey Tango Foxtrot,3/3/16 0:00,"Glenn Ficarra, John Requa",111 minutes,Whiskey Tango Foxtrot,3/4/16 0:00,"Glenn Ficarra, John Requa",112 minutes,1
+18005,6979,445,The Gift,8/6/15 0:00,Joel Edgerton,108 minutes,The Gift,8/7/15 0:00,Joel Edgerton,108 minutes,1
+18203,3455,450,Chronicle,2/2/12 0:00,"Josh Trank , Joshua Trank",83 minutes,Chronicle,2/2/12 0:00,"Josh Trank , Joshua Trank",84 minutes,1
+18217,4129,451,Vacation,7/28/15 0:00,"Jonathan Goldstein, John Francis Daley, Jonathan M. Goldstein",99 minutes,Vacation,7/29/15 0:00,"Jonathan Goldstein, John Francis Daley, Jonathan M. Goldstein",99 minutes,1
+18525,2162,457,Jessabelle,11/6/14 0:00,Kevin Greutert,90 minutes,Jessabelle,8/29/14 0:00,Kevin Greutert,90 minutes,1
+18530,1968,458,Alien Outpost,1/29/15 0:00,Jabbar Raisani,90 minutes,Alien Outpost,1/30/15 0:00,Jabbar Raisani,93 minutes,1
+18568,494,459,Terminator Genisys,6/30/15 0:00,Alan Taylor,119 minutes,Terminator Genisys,7/1/15 0:00,Alan Taylor,125 minutes,1
+18780,3194,464,The Hobbit: The Desolation of Smaug,12/12/13 0:00,Peter Jackson,161 minutes,The Hobbit: The Desolation of Smaug,12/13/13 0:00,Peter Jackson,161 minutes,1
+18793,2316,465,The Right Kind of Wrong,3/13/14 0:00,Jeremiah S. Chechik,97 minutes,The Right Kind of Wrong,2/6/14 0:00,Jeremiah S. Chechik,97 minutes,1
+18858,2454,467,Holy Motors,10/16/12 0:00,Leos Carax,115 minutes,Holy Motors,10/17/12 0:00,Leos Carax,115 minutes,1
+18873,6492,468,The Five-Year Engagement,4/26/12 0:00,Nicholas Stoller,124 minutes,The Five-Year Engagement,4/27/12 0:00,Nicholas Stoller,124 minutes,1
+18903,2949,470,Rock the Kasbah,10/22/15 0:00,Barry Levinson,100 minutes,Rock the Kasbah,10/23/15 0:00,Barry Levinson,100 minutes,1
+19076,3776,473,The Good Lie,10/2/14 0:00,"Philippe Falardeau, Shawn Linden",110 minutes,The Good Lie,9/10/14 0:00,"Philippe Falardeau, Shawn Linden",110 minutes,1
+19379,6667,483,Cooties,9/17/15 0:00,"Jonathan Milott, Cary Murnion",87 minutes,Cooties,9/18/15 0:00,"Jonathan Milott, Cary Murnion",88 minutes,1
+19434,1949,484,Rampart,2/9/12 0:00,Oren Moverman,107 minutes,Rampart,2/10/12 0:00,Oren Moverman,108 minutes,1
+19479,135,489,Mama,1/17/13 0:00,Andy Muschietti,100 minutes,Mama,1/18/13 0:00,Andy Muschietti,100 minutes,1
+19523,3155,492,The Purge,6/6/13 0:00,James DeMonaco,85 minutes,The Purge,6/6/13 0:00,James DeMonaco,86 minutes,1
+19708,4187,496,Big Eyes,12/24/14 0:00,Tim Burton,106 minutes,Big Eyes,12/25/14 0:00,Tim Burton,105 minutes,1
+20182,3363,510,Ant-Man,7/16/15 0:00,Peyton Reed,115 minutes,Ant-Man,6/29/15 0:00,Peyton Reed,115 minutes,1
+20402,5315,512,American Heist,7/23/15 0:00,Sarik Andreasyan,94 minutes,American Heist,7/14/15 0:00,Sarik Andreasyan,94 minutes,1
+20414,6391,513,The Kings of Summer,5/30/13 0:00,Jordan Vogt-Roberts,95 minutes,The Kings of Summer,1/19/13 0:00,Jordan Vogt-Roberts,93 minutes,1
+20728,6560,520,Barbie: Princess Charm School,12/2/12 0:00,"Ezekiel Norton, Zeke Norton",86 minutes,Barbie: Princess Charm School,9/13/11 0:00,"Ezekiel Norton, Zeke Norton",79 minutes,1
+21098,6802,528,"Love, Rosie",2/5/15 0:00,Christian Ditter,102 minutes,"Love, Rosie",12/6/14 0:00,Christian Ditter,102 minutes,1
+21595,3257,538,Neighbors,5/8/14 0:00,Nicholas Stoller,97 minutes,Neighbors,5/9/14 0:00,Nicholas Stoller,96 minutes,1
+21610,5750,539,Chinese Zodiac,10/17/13 0:00,Jackie Chan,141 minutes,Chinese Zodiac,10/18/13 0:00,Jackie Chan,120 minutes,1
+21813,987,543,Man on a Ledge,1/26/12 0:00,Asger Leth,102 minutes,Man on a Ledge,1/27/12 0:00,Asger Leth,102 minutes,1
+22001,2376,550,A Case of You,11/5/13 0:00,Kat Coiro,91 minutes,A Case of You,11/6/13 0:00,Kat Coiro,91 minutes,1
+22379,2829,558,Butter,10/4/12 0:00,Jim Field Smith,91 minutes,Butter,9/4/11 0:00,Jim Field Smith,90 minutes,1
+23182,6096,569,So Undercover,10/4/12 0:00,Tom Vaughan,96 minutes,So Undercover,1/1/12 0:00,Tom Vaughan,94 minutes,1
+23219,6035,570,The Devil Inside,1/5/12 0:00,William Brent Bell,83 minutes,The Devil Inside,1/6/12 0:00,William Brent Bell,83 minutes,1
+23310,1201,574,Enemy,3/13/14 0:00,Denis Villeneuve,90 minutes,Enemy,3/14/14 0:00,Denis Villeneuve,91 minutes,1
+23325,4416,575,Sicario,10/1/15 0:00,Denis Villeneuve,121 minutes,Sicario,9/14/15 0:00,Denis Villeneuve,121 minutes,1
+23337,4765,576,Bounty Killer,9/5/13 0:00,Henry Saine,92 minutes,Bounty Killer,9/6/13 0:00,Henry Saine,93 minutes,1
+23515,389,580,Empire State,8/29/13 0:00,Dito Montiel,94 minutes,Empire State,9/3/13 0:00,Dito Montiel,94 minutes,1
+24019,6515,588,The Loft,1/29/15 0:00,Erik Van Looy,103 minutes,The Loft,1/30/15 0:00,Erik Van Looy,108 minutes,1
+24222,2810,592,The Descendants,11/17/11 0:00,Alexander Payne,115 minutes,The Descendants,11/18/11 0:00,Alexander Payne,115 minutes,1
+24582,1445,597,Vehicle 19,6/13/13 0:00,Mukunda Michael Dewil,85 minutes,Vehicle 19,6/14/13 0:00,Mukunda Michael Dewil,85 minutes,1
+25001,6457,604,Vampire Academy,2/6/14 0:00,Mark Waters (VIII),105 minutes,Vampire Academy,2/7/14 0:00,Mark Waters (VIII),104 minutes,1
+25150,4075,607,Final Destination 5,8/11/11 0:00,Steven Quale,92 minutes,Final Destination 5,8/12/11 0:00,Steven Quale,95 minutes,1
+25170,5338,608,Amateur Night,8/4/16 0:00,"Lisa Addario, Joe Syracuse",93 minutes,Amateur Night,8/5/16 0:00,"Lisa Addario, Joe Syracuse",89 minutes,1
+25276,7187,611,Contraband,1/12/12 0:00,Baltasar Kormâ€¡kur,109 minutes,Contraband,1/13/12 0:00,Baltasar Kormâ€¡kur,109 minutes,1
+25319,3795,612,Winnie the Pooh,7/14/11 0:00,"Stephen J. Anderson, Don Hall, Stephen John Anderson",73 minutes,Winnie the Pooh,7/14/11 0:00,"Stephen J. Anderson, Don Hall, Stephen John Anderson",63 minutes,1
+25339,5657,613,Memories of the Sword,8/27/15 0:00,Heung-Sik Park,121 minutes,Memories of the Sword,8/13/15 0:00,Heung-Sik Park,121 minutes,1
+25645,715,616,The Muppets,11/22/11 0:00,James Bobin,102 minutes,The Muppets,11/4/11 0:00,James Bobin,103 minutes,1
+25710,6489,619,The Invitation,4/7/16 0:00,Karyn Kusama,100 minutes,The Invitation,3/13/15 0:00,Karyn Kusama,100 minutes,1
+25937,1142,623,A Perfect Day,1/14/16 0:00,Fernando Leâ€”n de Aranoa,106 minutes,A Perfect Day,1/15/16 0:00,Fernando Leâ€”n de Aranoa,106 minutes,1
+26252,440,629,Jupiter Ascending,2/5/15 0:00,"Andy Wachowski, Lana Wachowski",125 minutes,Jupiter Ascending,2/27/15 0:00,"Andy Wachowski, Lana Wachowski",124 minutes,1
+26256,1479,631,Miss You Already,11/5/15 0:00,Catherine Hardwicke,112 minutes,Miss You Already,10/23/15 0:00,Catherine Hardwicke,112 minutes,1
+26431,4071,634,The Assassin,10/15/15 0:00,Hsiao-hsien Hou,120 minutes,The Assassin,10/9/15 0:00,Hsiao-hsien Hou,105 minutes,1
+26459,1966,635,Spare Parts,1/15/15 0:00,Sean McNamara,114 minutes,Spare Parts,1/16/15 0:00,Sean McNamara,83 minutes,1
+26506,4465,636,Detention,4/12/12 0:00,"Joseph Kahn, Claudia Jurt, Peter Jurt",93 minutes,Detention,3/16/11 0:00,"Joseph Kahn, Claudia Jurt, Peter Jurt",93 minutes,1
+26997,3456,647,Intruders,3/29/12 0:00,Juan Carlos Fresnadillo,100 minutes,Intruders,3/30/12 0:00,Juan Carlos Fresnadillo,100 minutes,1
+27207,3805,655,The Diary Of A Teenage Girl,8/6/15 0:00,Marielle Heller,102 minutes,The Diary of a Teenage Girl,1/24/15 0:00,Marielle Heller,102 minutes,1
+27335,7306,659,Night Train To Lisbon,12/5/13 0:00,Bille August,109 minutes,Night Train to Lisbon,12/6/13 0:00,Bille August,111 minutes,1
+27678,860,666,The Voices,2/5/15 0:00,Marjane Satrapi,107 minutes,The Voices,1/19/14 0:00,Marjane Satrapi,101 minutes,1
+27893,2417,668,Hungry Hearts,6/4/15 0:00,Saverio Costanzo,109 minutes,Hungry Hearts,6/5/15 0:00,Saverio Costanzo,109 minutes,1
+27905,943,671,Whiplash,10/9/14 0:00,Damien Chazelle,106 minutes,Whiplash,10/10/14 0:00,Damien Chazelle,105 minutes,1
+28119,3528,675,The One I Love,8/21/14 0:00,Charlie McDowell,91 minutes,The One I Love,8/8/14 0:00,Charlie McDowell,91 minutes,1
+28181,5848,678,The Captive,12/8/14 0:00,Atom Egoyan,112 minutes,The Captive,12/12/14 0:00,Atom Egoyan,112 minutes,1
+28396,7026,681,Return To Nim's Island,3/18/13 0:00,Brendan Maher,90 minutes,Return to Nim's Island,3/15/13 0:00,Brendan Maher,90 minutes,1
+28398,338,682,Dark Places,8/6/15 0:00,Gilles Paquet-Brenner,114 minutes,Dark Places,7/29/15 0:00,Gilles Paquet-Brenner,113 minutes,1
+28481,7213,684,What If,8/7/14 0:00,Michael Dowse,102 minutes,What If,8/8/14 0:00,Michael Dowse,93 minutes,1
+28741,1043,688,The Angry Birds Movie,5/19/16 0:00,"Fergal Reilly, Clay Kaytis",95 minutes,The Angry Birds Movie,5/20/16 0:00,"Fergal Reilly, Clay Kaytis",95 minutes,1
+29296,5996,695,The Adventurer: The Curse of the Midas Box,1/9/14 0:00,Jonathan Newman,98 minutes,The Adventurer: The Curse of the Midas Box,12/5/13 0:00,Jonathan Newman,99 minutes,1
+29552,3865,698,Wolf Creek 2,5/15/14 0:00,Greg McLean,106 minutes,Wolf Creek 2,4/17/14 0:00,Greg McLean,106 minutes,1
+29576,4372,701,Reasonable Doubt,1/16/14 0:00,"Peter Howitt, Peter P. Croudins",91 minutes,Reasonable Doubt,1/17/14 0:00,"Peter Howitt, Peter P. Croudins",91 minutes,1
+29783,783,702,Kill for Me,"Dec 31,9999",Michael Greenspan,95 minutes,Kill for Me,2/12/13 0:00,Michael Greenspan,95 minutes,1
+29975,4821,703,Pompeii,2/20/14 0:00,Paul W.S. Anderson,105 minutes,Pompeii,2/21/14 0:00,Paul W.S. Anderson,105 minutes,1
+30226,2820,711,A Very Harold & Kumar Christmas,11/3/11 0:00,Todd Strauss-Schulson,91 minutes,A Very Harold & Kumar Christmas,11/4/11 0:00,Todd Strauss-Schulson,108 minutes,1
+30281,465,712,I Give It a Year,8/8/13 0:00,Dan Mazer,97 minutes,I Give It a Year,2/10/13 0:00,Dan Mazer,97 minutes,1
+30738,482,725,This Means War,2/13/12 0:00,McG,98 minutes,This Means War,2/17/12 0:00,McG,103 minutes,1
+30880,5255,729,The Giver,8/14/14 0:00,Phillip Noyce,140 minutes,The Giver,8/11/14 0:00,Phillip Noyce,94 minutes,1
+30955,4214,732,Honeymoon,9/11/14 0:00,Leigh Janiak,87 minutes,Honeymoon,9/12/14 0:00,Leigh Janiak,87 minutes,1
+31108,4770,736,The Watch,7/26/12 0:00,Akiva Schaffer,101 minutes,The Watch,7/27/12 0:00,Akiva Schaffer,98 minutes,1
+31419,5818,743,Some Velvet Morning,12/12/13 0:00,Neil LaBute,82 minutes,Some Velvet Morning,12/10/13 0:00,Neil LaBute,82 minutes,1
+31471,515,746,Space Station 76,9/18/14 0:00,Jack Plotnick,94 minutes,Space Station 76,9/19/14 0:00,Jack Plotnick,94 minutes,1
+31484,1125,747,Broken City,1/17/13 0:00,Allen Hughes,108 minutes,Broken City,1/18/13 0:00,Allen Hughes,109 minutes,1
+31854,3942,752,Sharknado,8/2/13 0:00,Anthony C. Ferrante,90 minutes,Sharknado,7/11/13 0:00,Anthony C. Ferrante,86 minutes,1
+32066,5187,756,Fed Up,5/8/14 0:00,Stephanie Soechtig,92 minutes,Fed Up,5/9/14 0:00,Stephanie Soechtig,92 minutes,1
+32072,3554,757,The Impossible,12/20/12 0:00,J.A. Bayona,113 minutes,The Impossible,12/4/12 0:00,J.A. Bayona,113 minutes,1
+32368,4804,762,The Peanuts Movie,11/5/15 0:00,Steve Martino,92 minutes,The Peanuts Movie,10/19/15 0:00,Steve Martino,88 minutes,1
+32393,6268,764,Amy,7/2/15 0:00,Asif Kapadia,128 minutes,Amy,7/10/15 0:00,Asif Kapadia,128 minutes,1
+32426,555,766,Let's Be Cops,8/12/14 0:00,Luke Greenfield,109 minutes,Let's Be Cops,8/13/14 0:00,Luke Greenfield,104 minutes,1
+32658,3064,768,Rob the Mob,3/20/14 0:00,Raymond De Felitta,104 minutes,Rob the Mob,3/21/14 0:00,Raymond De Felitta,104 minutes,1
+32713,2005,771,Taken 3,1/8/15 0:00,Olivier Megaton,93 minutes,Taken 3,1/9/15 0:00,Olivier Megaton,109 minutes,1
+32888,1574,774,Everly,2/26/15 0:00,Joe Lynch,92 minutes,Everly,9/20/14 0:00,Joe Lynch,90 minutes,1
+33102,2989,778,Son of a Gun,1/22/15 0:00,Julius Avery,108 minutes,Son of a Gun,12/11/14 0:00,Julius Avery,108 minutes,1
+33105,7168,779,Brick Mansions,4/24/14 0:00,Camille Delamarre,90 minutes,Brick Mansions,4/25/14 0:00,Camille Delamarre,90 minutes,1
+33113,275,780,The Last Circus,8/18/11 0:00,Ã§lex de la Iglesia,107 minutes,The Last Circus,8/19/11 0:00,Ã§lex de la Iglesia,101 minutes,1
+33165,4367,781,Going Clear: Scientology and the Prison of Belief,3/12/15 0:00,Alex Gibney,120 minutes,Going Clear: Scientology and the Prison of Belief,1/25/15 0:00,Alex Gibney,119 minutes,1
+33195,6554,782,The Zero Theorem,9/18/14 0:00,Terry Gilliam,107 minutes,The Zero Theorem,8/19/14 0:00,Terry Gilliam,107 minutes,1
+33322,6291,784,Burnt,10/29/15 0:00,John Wells,100 minutes,Burnt,10/23/15 0:00,John Wells,100 minutes,1
+33429,4317,785,Interrogation,"Dec 31,9999",Stephen Reynolds,93 minutes,Interrogation,9/20/16 0:00,Stephen Reynolds,93 minutes,1
+33551,5302,788,A Hijacking,6/20/13 0:00,Tobias Lindholm,99 minutes,A Hijacking,8/4/12 0:00,Tobias Lindholm,103 minutes,1
+33565,7063,789,The Book Thief,11/7/13 0:00,Brian Percival,130 minutes,The Book Thief,11/8/13 0:00,Brian Percival,131 minutes,1
+33921,3254,793,Ten Thousand Saints,8/13/15 0:00,"Shari Springer Berman, Robert Pulcini",113 minutes,Ten Thousand Saints,8/14/15 0:00,"Shari Springer Berman, Robert Pulcini",113 minutes,1
+34405,6578,799,Focus,2/26/15 0:00,"Glenn Ficarra, John Requa",104 minutes,Focus,2/27/15 0:00,"Glenn Ficarra, John Requa",105 minutes,1
+35332,3098,808,Norm of the North,1/14/16 0:00,Trevor Wall,86 minutes,Norm of the North,1/15/16 0:00,Trevor Wall,86 minutes,1
+35336,2568,809,Rush,9/26/13 0:00,Ron Howard,123 minutes,Rush,9/27/13 0:00,Ron Howard,123 minutes,1
+35365,5455,810,Project X,3/1/12 0:00,Nima Nourizadeh,88 minutes,Project X,3/2/12 0:00,Nima Nourizadeh,88 minutes,1
+35812,5981,817,A Common Man,3/14/13 0:00,Chandran Rutnam,86 minutes,A Common Man,6/30/13 0:00,Chandran Rutnam,86 minutes,1
+36039,4881,824,The Humbling,1/22/15 0:00,Barry Levinson,102 minutes,The Humbling,1/23/15 0:00,Barry Levinson,112 minutes,1
+36254,3978,827,Pain & Gain,4/25/13 0:00,Michael Bay,129 minutes,Pain & Gain,4/26/13 0:00,Michael Bay,130 minutes,1
+36383,2506,830,Tinker Tailor Soldier Spy,12/8/11 0:00,Tomas Alfredson,128 minutes,Tinker Tailor Soldier Spy,12/9/11 0:00,Tomas Alfredson,127 minutes,1
+36432,4181,833,The Odd Life of Timothy Green,8/14/12 0:00,Peter Hedges,100 minutes,The Odd Life of Timothy Green,8/15/12 0:00,Peter Hedges,105 minutes,1
+36569,1789,836,My Big Fat Greek Wedding 2,3/24/16 0:00,Kirk Jones,94 minutes,My Big Fat Greek Wedding 2,3/25/16 0:00,Kirk Jones,94 minutes,1
+37220,1044,842,Vikingdom,10/3/13 0:00,Yusry Abdul Halim,114 minutes,Vikingdom,10/4/13 0:00,Yusry Abdul Halim,114 minutes,1
+37222,7194,843,Special Forces,10/11/12 0:00,StÅ_phane Rybojad,107 minutes,Special Forces,10/12/12 0:00,StÅ_phane Rybojad,109 minutes,1
+37476,589,848,A Hologram for the King,4/21/16 0:00,Tom Tykwer,90 minutes,A Hologram for the King,4/20/16 0:00,Tom Tykwer,97 minutes,1
+37506,4468,849,The Tree of Life,5/26/11 0:00,Terrence Malick,139 minutes,The Tree of Life,5/27/11 0:00,Terrence Malick,139 minutes,1
+37576,5497,852,RoboCop,2/11/14 0:00,JosÅ_ Padilha,117 minutes,RoboCop,2/12/14 0:00,JosÅ_ Padilha,102 minutes,1
+38223,2988,859,Black Sea,1/22/15 0:00,Kevin Macdonald,115 minutes,Black Sea,1/23/15 0:00,Kevin Macdonald,115 minutes,1
+38325,4692,862,Alex Cross,10/18/12 0:00,Rob Cohen,101 minutes,Alex Cross,10/18/12 0:00,Rob Cohen,101 minutes,1
+38355,5688,863,A Royal Night Out,12/3/15 0:00,Julian Jarrold,97 minutes,A Royal Night Out,9/7/15 0:00,Julian Jarrold,97 minutes,1
+38435,2826,867,Mr. Right,4/7/16 0:00,Paco Cabezas,90 minutes,Mr. Right,4/8/16 0:00,Paco Cabezas,95 minutes,1
+38442,1374,868,Olympus Has Fallen,3/21/13 0:00,Antoine Fuqua,119 minutes,Olympus Has Fallen,3/18/13 0:00,Antoine Fuqua,120 minutes,1
+38561,2308,873,Ouija,10/23/14 0:00,"McG, Stiles White",83 minutes,Ouija,10/24/14 0:00,"McG, Stiles White",89 minutes,1
+38657,7323,876,The Angriest Man in Brooklyn,5/22/14 0:00,Phil Alden Robinson,87 minutes,The Angriest Man in Brooklyn,5/23/14 0:00,Phil Alden Robinson,84 minutes,1
+38989,3654,888,Carol,11/19/15 0:00,Todd Haynes,118 minutes,Carol,11/20/15 0:00,Todd Haynes,118 minutes,1
+39253,1913,899,The Tall Man,8/30/12 0:00,Pascal Laugier,100 minutes,The Tall Man,8/1/12 0:00,Pascal Laugier,106 minutes,1
+39278,6609,904,Hara-Kiri: Death of a Samurai,7/19/12 0:00,"Takashi Miike, Kikumi Yamagishi, Kikumi Yamagishi",126 minutes,Hara-Kiri: Death of a Samurai,10/15/11 0:00,"Takashi Miike, Kikumi Yamagishi, Kikumi Yamagishi",126 minutes,1
+39287,10,905,Chef,5/8/14 0:00,Jon Favreau,115 minutes,Chef,5/9/14 0:00,Jon Favreau,115 minutes,1
+39332,5176,906,The Turin Horse,2/9/12 0:00,"Bela Tarr, Ã§gnes Hranitzky",146 minutes,The Turin Horse,10/13/11 0:00,"Bela Tarr, Ã§gnes Hranitzky",146 minutes,1
+39336,5863,907,Kung Fu Panda 3,1/28/16 0:00,"Jennifer Yuh Nelson, Alessandro Carloni",94 minutes,Kung Fu Panda 3,1/29/16 0:00,"Jennifer Yuh Nelson, Alessandro Carloni",95 minutes,1
+39403,2684,909,Doomsday,12/18/15 0:00,Neil Johnson,94 minutes,Doomsday,3/14/08 0:00,Neil Johnson,105 minutes,1
+39567,1886,911,Restitution,10/27/11 0:00,"Lance Kawas, Lance K. R. Kawas",101 minutes,Restitution,10/28/11 0:00,"Lance Kawas, Lance K. R. Kawas",101 minutes,1
+39570,5571,912,X-Men: Days of Future Past,5/22/14 0:00,Bryan Singer,131 minutes,X-Men: Days of Future Past,5/23/14 0:00,Bryan Singer,131 minutes,1
+39659,5816,915,Pride,9/25/14 0:00,Matthew Warchus,120 minutes,Pride,12/4/14 0:00,Matthew Warchus,117 minutes,1
+39850,7120,918,Beyond the Lights,11/13/14 0:00,Gina Prince-Bythewood,102 minutes,Beyond the Lights,11/14/14 0:00,Gina Prince-Bythewood,116 minutes,1
+39853,567,919,Unfriended,4/16/15 0:00,Levan Gabriadze,82 minutes,Unfriended,3/13/15 0:00,Levan Gabriadze,82 minutes,1
+40159,1608,923,12 Rounds 3: Lockdown,9/10/15 0:00,Stephen Reynolds,90 minutes,12 Rounds 3: Lockdown,9/11/15 0:00,Stephen Reynolds,90 minutes,1
+40503,2475,926,"As Above, So Below",8/28/14 0:00,John Erick Dowdle,93 minutes,"As Above, So Below",8/29/14 0:00,John Erick Dowdle,93 minutes,1
+40563,5521,927,Battle of the Year,9/19/13 0:00,Benson Lee,109 minutes,Battle of the Year,9/21/13 0:00,Benson Lee,110 minutes,1
+40635,666,928,The Hunt,7/11/13 0:00,Thomas Vinterberg,111 minutes,The Hunt,12/20/12 0:00,Thomas Vinterberg,115 minutes,1
+40713,1729,929,Scouts Guide to the Zombie Apocalypse,10/29/15 0:00,Christopher Landon,93 minutes,Scouts Guide to the Zombie Apocalypse,10/30/15 0:00,Christopher Landon,93 minutes,1
+40773,6711,931,Much Ado About Nothing,6/6/13 0:00,Joss Whedon,108 minutes,Much Ado About Nothing,6/7/13 0:00,Joss Whedon,107 minutes,1
+40873,3082,933,Maleficent,5/29/14 0:00,Robert Stromberg,97 minutes,Maleficent,5/30/14 0:00,Robert Stromberg,97 minutes,1
+41008,70,934,Starred Up,8/26/14 0:00,David Mackenzie,106 minutes,Starred Up,8/30/13 0:00,David Mackenzie,106 minutes,1
+41274,6130,937,Abraham Lincoln: Vampire Hunter,6/21/12 0:00,Timur Bekmambetov,105 minutes,Abraham Lincoln: Vampire Hunter,6/22/12 0:00,Timur Bekmambetov,94 minutes,1
+41488,3689,942,Jobs,8/15/13 0:00,Joshua Michael Stern,129 minutes,Jobs,8/16/13 0:00,Joshua Michael Stern,128 minutes,1
+41788,4242,946,Don Jon,9/26/13 0:00,Joseph Gordon-Levitt,90 minutes,Don Jon,9/27/13 0:00,Joseph Gordon-Levitt,90 minutes,1
+41832,3735,949,A.C.O.D.,10/3/13 0:00,"Stuart Zicherman, Stu Zicherman",87 minutes,A.C.O.D.,10/4/13 0:00,"Stuart Zicherman, Stu Zicherman",88 minutes,1
+41871,2705,950,Dying of the Light,12/4/14 0:00,Paul Schrader,93 minutes,Dying of the Light,12/4/14 0:00,Paul Schrader,94 minutes,1
+42201,1335,954,Ender's Game,10/31/13 0:00,Gavin Hood,113 minutes,Ender's Game,11/1/13 0:00,Gavin Hood,114 minutes,1
+42246,6387,958,ARQ,"Dec 31,9999",Tony Elliott,88 minutes,ARQ,9/16/16 0:00,Tony Elliott,88 minutes,1
+42385,3605,962,Lawless,8/28/12 0:00,John Hillcoat,115 minutes,Lawless,8/29/12 0:00,John Hillcoat,115 minutes,1
+42741,1539,968,Seventh Son,2/5/15 0:00,"Sergei Bodrov, Sergey Bodrov",102 minutes,Seventh Son,2/6/15 0:00,"Sergei Bodrov, Sergey Bodrov",102 minutes,1
+42764,1993,970,Zookeeper,7/7/11 0:00,Frank Coraci,101 minutes,Zookeeper,7/8/11 0:00,Frank Coraci,102 minutes,1
+42889,2853,973,Danny Collins,4/9/15 0:00,Dan Fogelman,106 minutes,Danny Collins,3/20/15 0:00,Dan Fogelman,107 minutes,1
+43153,4179,980,The Incredible Burt Wonderstone,3/14/13 0:00,Don Scardino,100 minutes,The Incredible Burt Wonderstone,3/15/13 0:00,Don Scardino,100 minutes,1
+43182,6090,981,Barbie: The Pearl Princess,1/31/14 0:00,"Terry Klassen, Ezekiel Norton, Terry Klassen",74 minutes,Barbie: The Pearl Princess,2/1/14 0:00,"Terry Klassen, Ezekiel Norton, Terry Klassen",73 minutes,1
+43261,6547,984,Life,12/3/15 0:00,Anton Corbijn,112 minutes,Life,12/4/15 0:00,Anton Corbijn,112 minutes,1
+43363,1314,989,Star Trek Into Darkness,5/15/13 0:00,J.J. Abrams,131 minutes,Star Trek Into Darkness,5/16/13 0:00,J.J. Abrams,132 minutes,1
+43479,1528,992,Beyond The Mask,4/5/15 0:00,Chad Burns,103 minutes,Beyond the Mask,4/6/15 0:00,Chad Burns,103 minutes,1
+43484,228,993,Breathe In,3/27/14 0:00,Drake Doremus,97 minutes,Breathe In,1/19/13 0:00,Drake Doremus,98 minutes,1
+43535,2847,995,Shaun the Sheep Movie,8/4/15 0:00,"Mark Burton, Richard Starzak",84 minutes,Shaun the Sheep Movie,8/5/15 0:00,"Mark Burton, Richard Starzak",85 minutes,1
+43663,6789,998,Paranoia,8/15/13 0:00,Robert Luketic,106 minutes,Paranoia,8/16/13 0:00,Robert Luketic,106 minutes,1
+43825,3539,1004,The Revenant,12/24/15 0:00,"Alejandro Gonzâ€¡lez Iâ€“â€¡rritu, Alejandro Gonzâ€¡lez Iâ€“â€¡rritu",156 minutes,The Revenant,12/16/15 0:00,"Alejandro Gonzâ€¡lez Iâ€“â€¡rritu, Alejandro Gonzâ€¡lez Iâ€“â€¡rritu",156 minutes,1
+43976,2984,1012,Wreck-it Ralph,11/1/12 0:00,Rich Moore,92 minutes,Wreck-It Ralph,11/2/12 0:00,Rich Moore,108 minutes,1
+44010,104,1014,Cold Comes The Night,1/9/14 0:00,Tze Chun,91 minutes,Cold Comes the Night,9/20/13 0:00,Tze Chun,90 minutes,1
+44032,4541,1015,About Last Night,2/13/14 0:00,Steve Pink,100 minutes,About Last Night,2/14/14 0:00,Steve Pink,100 minutes,1
+44116,3047,1018,The Dinosaur Project,8/9/12 0:00,Sid Bennett,83 minutes,The Dinosaur Project,8/9/12 0:00,Sid Bennett,83 minutes,1
+44513,2103,1024,Fathers And Daughters,7/7/16 0:00,Gabriele Muccino,116 minutes,Fathers and Daughters,1/13/16 0:00,Gabriele Muccino,116 minutes,1
+44518,6537,1025,5 Flights Up,5/7/15 0:00,Richard Loncraine,92 minutes,5 Flights Up,5/8/15 0:00,Richard Loncraine,92 minutes,1
+44752,3009,1030,Piranha 3DD,5/31/12 0:00,John Gulager,83 minutes,Piranha 3DD,6/1/12 0:00,John Gulager,83 minutes,1
+44927,5087,1037,Good Kill,5/14/15 0:00,Andrew Niccol,103 minutes,Good Kill,5/15/15 0:00,Andrew Niccol,104 minutes,1
+44994,1560,1043,Baggage Claim,9/26/13 0:00,David E. Talbert,96 minutes,Baggage Claim,9/27/13 0:00,David E. Talbert,96 minutes,1
+45602,245,1050,"Men, Women & Children",9/30/14 0:00,Jason Reitman,119 minutes,"Men, Women & Children",10/17/14 0:00,Jason Reitman,116 minutes,1
+45747,6184,1057,In the Fog,6/13/13 0:00,Sergei Loznitsa,127 minutes,In the Fog,6/14/13 0:00,Sergei Loznitsa,130 minutes,1
+45750,1534,1059,The Woman in the Fifth,6/14/12 0:00,"Pawel Pawlikowski, Pavel Pavlikovskiy",83 minutes,The Woman in the Fifth,6/15/12 0:00,"Pawel Pawlikowski, Pavel Pavlikovskiy",85 minutes,1
+45817,4391,1064,Maze Runner: The Scorch Trials,9/17/15 0:00,Wes Ball,120 minutes,Maze Runner: The Scorch Trials,9/18/15 0:00,Wes Ball,132 minutes,1
+45863,6244,1067,The Help,8/9/11 0:00,Tate Taylor,137 minutes,The Help,8/10/11 0:00,Tate Taylor,146 minutes,1
+45882,2509,1068,African Cats,4/21/11 0:00,"Alastair Fothergill, Keith Scholey",89 minutes,African Cats,4/22/11 0:00,"Alastair Fothergill, Keith Scholey",89 minutes,1
+45949,5944,1073,Battle Royale,12/31/99 0:00,Kinji Fukasaku,114 minutes,Battle Royale,12/20/00 0:00,Kinji Fukasaku,114 minutes,1
+46041,140,1080,Oldboy,11/26/13 0:00,Spike Lee,104 minutes,Oldboy,11/27/13 0:00,Spike Lee,104 minutes,1
+46271,845,1086,Survivor,5/28/15 0:00,James McTeigue,96 minutes,Survivor,5/29/15 0:00,James McTeigue,96 minutes,1
+46336,6775,1087,John Wick,10/23/14 0:00,"David Leitch, Chad Stahelski",96 minutes,John Wick,10/24/14 0:00,"David Leitch, Chad Stahelski",101 minutes,1
+46682,5858,1091,About Cherry,9/20/12 0:00,Stephen Elliott,102 minutes,About Cherry,9/21/12 0:00,Stephen Elliott,102 minutes,1
+46815,2712,1093,Holidays,4/21/16 0:00,"Kevin Smith, Kevin Kolsch, Dennis Widmyer, Scott Stewart, Nicholas McCarthy, Gary Shore, Anthony Scott Burns, Sarah Adina Smith, Adam Egypt Mortimer",104 minutes,Holidays,4/14/16 0:00,"Kevin Smith, Kevin Kolsch, Dennis Widmyer, Scott Stewart, Nicholas McCarthy, Gary Shore, Anthony Scott Burns, Sarah Adina Smith, Adam Egypt Mortimer",105 minutes,1
+47763,1961,1111,Wild,12/2/14 0:00,Jean-Marc VallÅ_e,115 minutes,Wild,12/5/14 0:00,Jean-Marc VallÅ_e,115 minutes,1
+47768,714,1112,Erased,5/16/13 0:00,Philipp StÅ¡lzl,104 minutes,Erased,5/17/13 0:00,Philipp StÅ¡lzl,100 minutes,1
+47833,7273,1114,Lady and the Tramp,6/21/55 0:00,"Hamilton Luske, Wilfred Jackson, Clyde Geronimi",76 minutes,Lady and the Tramp,6/16/55 0:00,"Hamilton Luske, Wilfred Jackson, Clyde Geronimi",76 minutes,1
+47856,7244,1115,Race,2/18/16 0:00,Stephen Hopkins,90 minutes,Race,2/19/16 0:00,Stephen Hopkins,134 minutes,1
+47927,6843,1116,Goosebumps,10/15/15 0:00,Rob Letterman,103 minutes,Goosebumps,10/16/15 0:00,Rob Letterman,103 minutes,1
+48389,5298,1125,No Escape,8/25/15 0:00,John Erick Dowdle,101 minutes,No Escape,8/26/15 0:00,John Erick Dowdle,103 minutes,1
+48543,7387,1130,Love And Honor,3/21/13 0:00,Danny Mooney,92 minutes,Love and Honor,3/22/13 0:00,Danny Mooney,92 minutes,1
+48812,3125,1139,The Campaign,8/9/12 0:00,Jay Roach,86 minutes,The Campaign,8/10/12 0:00,Jay Roach,85 minutes,1
+49248,1113,1146,21 Jump Street,3/15/12 0:00,"Chris Miller, Christopher Miller, Phil Lord",109 minutes,21 Jump Street,3/12/12 0:00,"Chris Miller, Christopher Miller, Phil Lord",109 minutes,1
+49593,5503,1150,Remember,3/10/16 0:00,Atom Egoyan,95 minutes,Remember,3/11/16 0:00,Atom Egoyan,94 minutes,1
+49802,5922,1152,Good People,9/25/14 0:00,Henrik Ruben Genz,90 minutes,Good People,9/26/14 0:00,Henrik Ruben Genz,90 minutes,1
+49874,1771,1153,About Time,10/31/13 0:00,Richard Curtis,123 minutes,About Time,11/8/13 0:00,Richard Curtis,123 minutes,1
+50136,7199,1158,The Hundred-Foot Journey,8/7/14 0:00,"Lasse Hallstrom, Steven Quale",122 minutes,The Hundred-Foot Journey,8/8/14 0:00,"Lasse Hallstrom, Steven Quale",122 minutes,1
+50214,4171,1160,The Counselor,10/24/13 0:00,Ridley Scott,117 minutes,The Counselor,10/25/13 0:00,Ridley Scott,117 minutes,1
+50564,4601,1163,Fury,10/16/14 0:00,David Ayer,135 minutes,Fury,10/15/14 0:00,David Ayer,135 minutes,1
+50617,5038,1167,Enough Said,9/17/13 0:00,Nicole Holofcener,93 minutes,Enough Said,9/18/13 0:00,Nicole Holofcener,93 minutes,1
+50697,809,1171,Finding Nemo,5/29/03 0:00,"Lee Unkrich, Andrew Stanton",100 minutes,Finding Nemo,5/30/03 0:00,"Lee Unkrich, Andrew Stanton",100 minutes,1
+50759,3990,1173,Suddenly,9/16/13 0:00,Uwe Boll,90 minutes,Suddenly,8/8/13 0:00,Uwe Boll,90 minutes,1
+50979,5104,1177,Step Up Revolution,7/26/12 0:00,Scott Speer,98 minutes,Step Up Revolution,7/27/12 0:00,Scott Speer,99 minutes,1
+50998,1167,1179,Woman in Gold,3/31/15 0:00,Simon Curtis,110 minutes,Woman in Gold,4/10/15 0:00,Simon Curtis,120 minutes,1
+51050,2131,1180,Straight Outta Compton,8/13/15 0:00,F. Gary Gray,147 minutes,Straight Outta Compton,8/11/15 0:00,F. Gary Gray,147 minutes,1
+51083,445,1181,Criminal Activities,11/19/15 0:00,Jackie Earle Haley,94 minutes,Criminal Activities,11/20/15 0:00,Jackie Earle Haley,94 minutes,1
+51168,5384,1185,Boulevard,7/9/15 0:00,Dito Montiel,88 minutes,Boulevard,4/20/14 0:00,Dito Montiel,88 minutes,1
+51763,5739,1199,The Decoy Bride,3/8/12 0:00,"Sheree Folkson, Sheree Folkson",89 minutes,The Decoy Bride,10/10/11 0:00,"Sheree Folkson, Sheree Folkson",89 minutes,1
+51950,1973,1203,Tusk,9/18/14 0:00,Kevin Smith,102 minutes,Tusk,9/19/14 0:00,Kevin Smith,102 minutes,1
+52141,3190,1206,Extraction,12/17/15 0:00,Steven C. Miller,96 minutes,Extraction,12/18/15 0:00,Steven C. Miller,83 minutes,1
+52231,6615,1208,Spy,6/4/15 0:00,Paul Feig,117 minutes,Spy,6/5/15 0:00,Paul Feig,120 minutes,1
+52358,3698,1210,The Man From U.N.C.L.E.,8/13/15 0:00,Guy Ritchie,116 minutes,The Man from U.N.C.L.E.,8/14/15 0:00,Guy Ritchie,116 minutes,1
+52435,285,1212,I Spit on Your Grave 2,9/19/13 0:00,Steven R. Monroe,106 minutes,I Spit on Your Grave 2,9/24/13 0:00,Steven R. Monroe,106 minutes,1
+52481,4503,1213,Risen,2/18/16 0:00,Kevin Reynolds,107 minutes,Risen,1/22/16 0:00,Kevin Reynolds,107 minutes,1
+52541,3335,1215,Urge,6/2/16 0:00,Aaron Kaufman,89 minutes,Urge,4/5/16 0:00,Aaron Kaufman,89 minutes,1
+52647,6586,1217,Captain Phillips,10/10/13 0:00,Paul Greengrass,134 minutes,Captain Phillips,10/11/13 0:00,Paul Greengrass,134 minutes,1
+52896,1819,1223,American Ultra,8/20/15 0:00,Nima Nourizadeh,99 minutes,American Ultra,8/21/15 0:00,Nima Nourizadeh,96 minutes,1
+52919,4603,1225,Cars 2,6/23/11 0:00,"John Lasseter, Brad Lewis",112 minutes,Cars 2,6/16/11 0:00,"John Lasseter, Brad Lewis",106 minutes,1
+53002,6029,1228,The Confirmation,3/17/16 0:00,Bob Nelson,90 minutes,The Confirmation,3/18/16 0:00,Bob Nelson,90 minutes,1
+53142,3023,1230,To Rome with Love,6/21/12 0:00,Woody Allen,112 minutes,To Rome with Love,6/22/12 0:00,Woody Allen,111 minutes,1
+53540,3595,1239,Birdman,10/16/14 0:00,"Alejandro Gonzâ€¡lez Iâ€“â€¡rritu, Alejandro Gonzâ€¡lez Iâ€“â€¡rritu",119 minutes,Birdman,10/17/14 0:00,"Alejandro Gonzâ€¡lez Iâ€“â€¡rritu, Alejandro Gonzâ€¡lez Iâ€“â€¡rritu",119 minutes,1
+53543,2236,1240,Annie,12/18/14 0:00,Will Gluck,118 minutes,Annie,12/19/14 0:00,Will Gluck,119 minutes,1
+53849,6576,1248,And So It Goes,7/24/14 0:00,Rob Reiner,94 minutes,And So It Goes,7/25/14 0:00,Rob Reiner,94 minutes,1
+53894,1951,1250,Teenage Mutant Ninja Turtles,8/7/14 0:00,Jonathan Liebesman,101 minutes,Teenage Mutant Ninja Turtles,8/8/14 0:00,Jonathan Liebesman,101 minutes,1
+53974,3446,1252,Sniper: Special Ops,"Dec 31,9999",Fred Olen Ray,84 minutes,Sniper: Special Ops,4/3/16 0:00,Fred Olen Ray,84 minutes,1
+53997,3119,1253,Barbershop: The Next Cut,4/14/16 0:00,Malcolm D. Lee,112 minutes,Barbershop: The Next Cut,4/15/16 0:00,Malcolm D. Lee,112 minutes,1
+54157,655,1255,Begin Again,6/26/14 0:00,John Carney,101 minutes,Begin Again,7/11/14 0:00,John Carney,104 minutes,1
+54815,5208,1269,Jinn,4/3/14 0:00,Ajmal Zaheer Ahmad,97 minutes,Jinn,4/4/14 0:00,Ajmal Zaheer Ahmad,97 minutes,1
+54825,5278,1270,Moneyball,9/22/11 0:00,Bennett Miller,133 minutes,Moneyball,9/22/11 0:00,Bennett Miller,133 minutes,1
+54914,754,1272,Rock of Ages,6/14/12 0:00,Adam Shankman,123 minutes,Rock of Ages,6/15/12 0:00,Adam Shankman,123 minutes,1
+54952,3551,1275,47 Ronin,12/24/13 0:00,"Carl Rinsch, Carl Erik Rinsch",127 minutes,47 Ronin,12/25/13 0:00,"Carl Rinsch, Carl Erik Rinsch",118 minutes,1
+55073,7091,1280,The Lunchbox,2/27/14 0:00,Ritesh Batra,104 minutes,The Lunchbox,2/28/14 0:00,Ritesh Batra,104 minutes,1
+55131,2903,1282,Big Game,6/25/15 0:00,Jalmari Helander,90 minutes,Big Game,6/26/15 0:00,Jalmari Helander,90 minutes,1
+55687,3524,1293,High-Rise,5/12/16 0:00,Ben Wheatley,112 minutes,High-Rise,9/26/15 0:00,Ben Wheatley,119 minutes,1
+55937,5209,1298,Tarzan,5/8/14 0:00,Reinhard Klooss,94 minutes,Tarzan,12/20/13 0:00,Reinhard Klooss,94 minutes,1
+56342,2074,1306,The Dark Knight Rises,7/19/12 0:00,Christopher Nolan,165 minutes,The Dark Knight Rises,7/20/12 0:00,Christopher Nolan,165 minutes,1

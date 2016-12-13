@@ -1,0 +1,351 @@
+ID,Title,Rating,ReleaseDate,Writers,Directors,Genre,Revenue,Runtime
+1.0,Grown Ups 2,PG-13,7/11/2013 0:00,"Fred Wolf, Adam Sandler, Tim Herlihy, Fred Wolf (II)",Dennis Dugan,Comedy,"$127,400,000.00 ",101 minutes
+2.0,Return to Sender,NR,8/13/2015 0:00,"Joe Gossett, Patricia Beauchamp",Fouad Mikati,Mystery & Suspense,-,105 minutes
+3.0,Prisoners,R,9/19/2013 0:00,Aaron Guzikowski,Denis Villeneuve,"Drama, Mystery & Suspense","$60,962,878.00 ",153 minutes
+4.0,Still Alice,PG-13,1/15/2015 0:00,"Richard Glatzer, Wash Westmoreland","Richard Glatzer, Wash Westmoreland",Drama,"$41,797,583.00 ",99 minutes
+5.0,Devil's Due,R,1/16/2014 0:00,Lindsay Devlin,"Tyler Gillett, Matt Bettinelli-Olpin",Horror,"$36,433,975.00 ",89 minutes
+6.0,Now You See Me,PG-13,5/30/2013 0:00,"Edward Ricourt, Boaz Yakin, Ed Solomon",Louis Leterrier,Mystery & Suspense,"$117,698,894.00 ",115 minutes
+7.0,The Face of Love,PG-13,3/6/2014 0:00,"Matthew McDuffie, Arie Posin",Arie Posin,"Comedy, Drama, Romance","$350,006.00 ",92 minutes
+8.0,Lego Scooby-Doo!: Haunted Hollywood,Digital,5/3/2016 0:00,James Krieg,Rick Morales,Comedy,-,75 minutes
+9.0,Standoff,R,2/11/2016 0:00,Adam Alleca,Adam Alleca,"Action & Adventure, Drama",-,86 minutes
+10.0,The Huntsman: Winter's War,PG-13,4/21/2016 0:00,"Evan Spiliotopoulos, Craig Mazin",Cedric Nicolas-Troyan,"Action & Adventure, Drama, Science Fiction & Fantasy","$164,602,163.00 ",121 minutes
+11.0,Nightcrawler,R,10/30/2014 0:00,Dan Gilroy,Dan Gilroy,"Drama, Mystery & Suspense","$38,697,217.00 ",117 minutes
+12.0,Into the Storm,PG-13,8/7/2014 0:00,John Swetnam,Steven Quale,Mystery & Suspense,"$160,602,194.00 ",89 minutes
+13.0,Poltergeist,PG-13,5/21/2015 0:00,"David Lindsay-Abaire, Steven Spielberg",Gil Kenan,Horror,"$95,437,994.00 ",1 minutes
+14.0,Backtrack,R,2/25/2016 0:00,Michael Petroni,Michael Petroni,Mystery & Suspense,-,90 minutes
+15.0,The World's End,R,8/22/2013 0:00,"Edgar Wright, Simon Pegg",Edgar Wright,Comedy,-,109 minutes
+16.0,Battlestar Galactica: Blood & Chrome,R,11/9/2012 0:00,"David Eick, Michael Taylor, Bradley Thompson",Jonas Pate,"Action & Adventure, Science Fiction & Fantasy",-,91 minutes
+17.0,Her,R,12/17/2013 0:00,Spike Jonze,Spike Jonze,"Drama, Science Fiction & Fantasy, Special Interest, Romance","$47,351,251.00 ",126 minutes
+18.0,The Purge: Anarchy,R,7/17/2014 0:00,James DeMonaco,James DeMonaco,Horror,"$108,782,847.00 ",104 minutes
+19.0,The Little Death,PG-13,6/25/2015 0:00,"Josh Lawson (II), Josh Lawson","Josh Lawson (II), Josh Lawson",Comedy,-,97 minutes
+20.0,The Lobster,R,5/12/2016 0:00,"Efthimis Filippou, Efthymis Filippou, Yorgos Lanthimos",Yorgos Lanthimos,"Comedy, Cult Movies, Drama, Science Fiction & Fantasy","$9,078,073.00 ",118 minutes
+21.0,Victor Frankenstein,PG-13,11/24/2015 0:00,"Max Landis, Mary Shelley",Paul McGuigan,Drama,"$75,181.00 ",109 minutes
+22.0,After the Dark,R,2/6/2014 0:00,John Huddles,John Huddles,"Drama, Mystery & Suspense, Science Fiction & Fantasy",-,107 minutes
+23.0,No Good Deed,PG-13,9/11/2014 0:00,Aimee Lagos,Sam Miller,Mystery & Suspense,"$53,830,415.00 ",84 minutes
+24.0,The Skeleton Twins,R,9/11/2014 0:00,"Mark Heyman, Craig Johnson, Craig Johnson (IV)","Rian Johnson, Craig Johnson, Craig Johnson (IV)","Comedy, Drama","$5,284,309.00 ",93 minutes
+25.0,All Roads Lead to Rome,PG-13,2/4/2016 0:00,"Josh Appignanesi, Cindy Myers",Ella Lemhagen,"Art House & International, Comedy",-,90 minutes
+26.0,Cesar Chavez,PG-13,3/27/2014 0:00,"Keir Pearson, Timothy J. Sexton",Diego Luna,Drama,"$5,550,866.00 ",101 minutes
+27.0,Life of Pi,PG,11/20/2012 0:00,David Magee,Ang Lee,"Action & Adventure, Drama","$103,500,000.00 ",127 minutes
+28.0,The Grandmaster,PG-13,8/22/2013 0:00,"Haofeng Xu, Kar-Wai Wong, Wong Kar-wai, Jingzhi Zou","Kar-Wai Wong, Wong Kar-wai","Action & Adventure, Art House & International, Drama, Special Interest","$6,300,000.00 ",130 minutes
+29.0,Despicable Me 2,PG,7/2/2013 0:00,"Cinco Paul, Ken Daurio","Pierre Coffin, Chris Renaud","Animation, Comedy, Kids & Family","$368,049,635.00 ",98 minutes
+30.0,Doomsday Prophecy,PG-13,8/13/2011 0:00,"Shawn Linden, Jason Bourque",Jason Bourque,"Mystery & Suspense, Science Fiction & Fantasy",-,92 minutes
+31.0,I Don't Know How She Does It,PG-13,9/15/2011 0:00,Aline Brosh McKenna,Douglas McGrath,Comedy,"$9,500,000.00 ",89 minutes
+32.0,Declaration of War,Theatrical,1/26/2012 0:00,"Jérémie Elkaïm, Valérie Donzelli",Valérie Donzelli,"Art House & International, Comedy, Drama, Special Interest","$46,225.00 ",100 minutes
+33.0,Halo 4: Forward Unto Dawn,NR,12/3/2012 0:00,"Aaron Helbing, Todd Helbing",Stewart Hendler,"Action & Adventure, Animation, Mystery & Suspense, Science Fiction & Fantasy, Television",-,90 minutes
+34.0,Catch .44,R,12/8/2011 0:00,Aaron Harvey,Aaron Harvey,"Action & Adventure, Drama, Western",-,93 minutes
+35.0,Transformers: Age of Extinction,PG-13,6/26/2014 0:00,Ehren Kruger,Michael Bay,"Action & Adventure, Science Fiction & Fantasy","$245,500,000.00 ",157 minutes
+36.0,Knock Knock,R,10/8/2015 0:00,"Eli Roth, Guillermo Amoedo, Nicolás López",Eli Roth,Mystery & Suspense,"$5,214,043.00 ",99 minutes
+37.0,I'm So Excited!,R,6/27/2013 0:00,Pedro Almodóvar,Pedro Almodóvar,Comedy,"$1,367,846.00 ",90 minutes
+38.0,31,R,10/20/2016 0:00,Rob Zombie,Rob Zombie,Horror,-,103 minutes
+39.0,Blue Jasmine,PG-13,7/25/2013 0:00,Woody Allen,Woody Allen,Comedy,"$97,505,481.00 ",98 minutes
+40.0,Deathgasm,NR,10/1/2015 0:00,Jason Lei Howden,Jason Lei Howden,"Art House & International, Comedy, Horror",-,90 minutes
+41.0,Draft Day,PG-13,4/10/2014 0:00,"Rajiv Joseph, Scott Rothman",Ivan Reitman,Drama,"$28,831,145.00 ",109 minutes
+42.0,Promised Land,R,1/3/2013 0:00,"John Krasinski, Matt Damon",Gus Van Sant,Drama,"$7,600,000.00 ",106 minutes
+43.0,Khumba,G,12/5/2013 0:00,"Raffaella Delle Donne, Anthony Silverston, Jonathan Roberts, Camilla Bubna-Kasteliz",Anthony Silverston,"Action & Adventure, Animation, Kids & Family","$27,187,375.00 ",85 minutes
+44.0,Nine Miles Down,PG,10/30/2009 0:00,"Everett De Roche, Anthony Waller",Anthony Waller,Mystery & Suspense,-,86 minutes
+45.0,Killer Joe,R,7/26/2012 0:00,Tracy Letts,William Friedkin,"Comedy, Mystery & Suspense","$1,800,000.00 ",102 minutes
+46.0,Nobody Walks,R,10/18/2012 0:00,"Lena Dunham, Ry Russo-Young",Ry Russo-Young,Drama,"$24,995.00 ",85 minutes
+47.0,Friends with Kids,R,3/8/2012 0:00,Jennifer Westfeldt,Jennifer Westfeldt,"Comedy, Drama","$5,600,000.00 ",107 minutes
+48.0,Hugo,PG,11/22/2011 0:00,"Brian Selznick, John Logan, Robert Richardson",Martin Scorsese,"Kids & Family, Mystery & Suspense","$73,820,094.00 ",126 minutes
+49.0,CLONED: The Recreator Chronicles,NR,4/22/2012 0:00,Gregory Orr,Gregory Orr,"Drama, Mystery & Suspense, Science Fiction & Fantasy",-,90 minutes
+50.0,Barbie in Princess Power,G,3/2/2015 0:00,Marsha Griffin,"Zeke Norton, Ezekiel Norton","Animation, Television",-,90 minutes
+51.0,The Secret Life of Walter Mitty,PG,12/24/2013 0:00,"Steve Conrad, Steven Conrad",Ben Stiller,"Action & Adventure, Comedy, Drama","$188,133,322.00 ",114 minutes
+52.0,London Boulevard,R,11/10/2011 0:00,William Monahan,William Monahan,"Drama, Mystery & Suspense","$10,484.00 ",93 minutes
+53.0,A Million Ways to Die in the West,R,5/29/2014 0:00,"Wellesley Wild, Seth MacFarlane, Alec Sulkin",Seth MacFarlane,"Comedy, Western",-,116 minutes
+54.0,Lone Survivor,R,1/9/2014 0:00,Peter Berg,Peter Berg,"Action & Adventure, Drama","$149,295,601.00 ",122 minutes
+55.0,Open Grave,R,1/2/2014 0:00,"Chris Borey, Eddie Borey",Gonzalo López-Gallego,Horror,-,102 minutes
+56.0,Black Mass,R,9/17/2015 0:00,"Mark Mallouk, Jez Butterworth",Scott Cooper,Drama,"$99,775,678.00 ",120 minutes
+57.0,The Wolf of Wall Street,R,12/24/2013 0:00,Terence Winter,Martin Scorsese,Drama,"$392,000,694.00 ",179 minutes
+58.0,Winter Sleep,Theatrical,12/18/2014 0:00,"Nuri Bilge Ceylan, Ebru Ceylan",Nuri Bilge Ceylan,Drama,-,196 minutes
+59.0,I'll See You in My Dreams,PG-13,5/14/2015 0:00,"Marc Basch, Brett Haley",Brett Haley,"Comedy, Drama, Romance","$7,449,681.00 ",95 minutes
+60.0,Rage,R,7/10/2014 0:00,"Sean Keller, Jim Agnew",Paco Cabezas,"Action & Adventure, Mystery & Suspense",-,98 minutes
+61.0,Safety Not Guaranteed,R,6/7/2012 0:00,Derek Connolly,Colin Trevorrow,"Comedy, Drama","$4,007,792.00 ",86 minutes
+62.0,Fifty Shades of Grey,R,2/12/2015 0:00,"Kelly Marcel, E.L. James",Sam Taylor-Johnson,Romance,"$569,651,467.00 ",110 minutes
+63.0,The Good Dinosaur,PG,11/24/2015 0:00,Meg LeFauve,Peter Sohn,Animation,"$331,926,147.00 ",100 minutes
+64.0,The Forger,PG-13,7/2/2012 0:00,Carlos De Los Rios,Lawrence Roeck,Drama,-,92 minutes
+65.0,This Is 40,R,12/20/2012 0:00,Judd Apatow,Judd Apatow,Comedy,"$65,200,000.00 ",134 minutes
+66.0,The Brass Teapot,R,4/4/2013 0:00,"Tim Macy, Ramaa Mosley",Ramaa Mosley,"Comedy, Mystery & Suspense, Science Fiction & Fantasy",-,101 minutes
+67.0,The Pyramid,R,12/4/2014 0:00,"Nick Simon (II), Daniel Meersand, Nick Simon","Alex Visani, Roberto Albanesi, Luca Alessandro, Simone Chiesa, Antonio Zannone, Grégory Levasseur",Drama,"$13,865,435.00 ",90 minutes
+68.0,The Scorpion King 4: Quest for Power,PG-13,1/21/2015 0:00,Michael D. Weiss,Mike Elliott,Action & Adventure,-,65 minutes
+69.0,Norwegian Wood,Theatrical,1/5/2012 0:00,"Trần Anh Hùng, Anh Hung Tran","No Zin Soo, Trần Anh Hùng, Anh Hung Tran","Art House & International, Drama","$17,636,261.00 ",133 minutes
+70.0,The Lone Ranger,PG-13,7/2/2013 0:00,"Terry Rossio, Justin Haythe, Ted Elliott",Gore Verbinski,"Action & Adventure, Kids & Family, Western","$89,289,910.00 ",149 minutes
+71.0,Hateship Loveship,R,4/10/2014 0:00,"Mark Jude Poirier, Mark Poirier",Liza Johnson,"Comedy, Drama",-,102 minutes
+72.0,Ain't Them Bodies Saints,R,8/15/2013 0:00,David Lowery,David Lowery,Drama,"$200,000.00 ",105 minutes
+73.0,Operator,R,8/21/2015 0:00,"Dwain Worrell, Tony Feole","Obin Olson, Amariah Olson","Thriller,Action,Drama",-,84 minutes
+74.0,Money Monster,R,5/12/2016 0:00,"Jim Kouf, Jamie Linden, Alan Di Fiore, Alan DiFiore",Jodie Foster,Drama,"$41,008,532.00 ",90 minutes
+75.0,Warrior,PG-13,9/8/2011 0:00,"Anthony Tambakis, Cliff Dorfman, Gavin O'Connor",Gavin O'Connor,"Action & Adventure, Drama","$13,600,000.00 ",139 minutes
+76.0,Decoding Annie Parker,R,5/1/2014 0:00,"Michael H. Moss, Steven Bernstein, Adam Bernstein, Mike Moss",Steven Bernstein,Drama,"$39,850.00 ",100 minutes
+77.0,Sector 7,Theatrical,9/14/2011 0:00,Je-gyun Yun,"Kim Ji-Hoon, Jihun Kim","Action & Adventure, Art House & International, Horror",-,112 minutes
+78.0,Green Lantern,PG-13,6/16/2011 0:00,"Michael Goldenberg, Michael Green, Michael Greene, Michael Green (VII), Greg Berlanti, Marc Guggenheim","Greg Berlanti, Martin Campbell","Action & Adventure, Science Fiction & Fantasy","$116,600,000.00 ",113 minutes
+79.0,Coriolanus,R,1/12/2011 0:00,John Logan,Ralph Fiennes,"Drama, Mystery & Suspense","$1,072,602.00 ",124 minutes
+80.0,The Magic of Belle Isle,PG,7/5/2012 0:00,"Rob Reiner, Andrew Scheinman, Guy Thomas",Rob Reiner,"Comedy, Drama","$102,388.00 ",109 minutes
+81.0,This Is Where I Leave You,R,9/18/2014 0:00,Jonathan Tropper,Shawn Levy,Comedy,"$41,296,320.00 ",103 minutes
+82.0,A Walk in the Woods,R,9/1/2015 0:00,"Rick Kerb, William Holderman, Bill Holderman",Ken Kwapis,"Action & Adventure, Comedy, Drama","$35,991,087.00 ",98 minutes
+83.0,Vice,R,1/15/2015 0:00,"Fabrizio De Andre, Jeremy Passmore, Andre Fabrizio","Brian A. Miller, Brian A Miller","Action & Adventure, Science Fiction & Fantasy",-,96 minutes
+84.0,Michael,12,2/14/2012 0:00,Markus Schleinzer,Markus Schleinzer,Drama,"$15,151.00 ",98 minutes
+85.0,Sparks,PG-13,2/28/2014 0:00,Christopher Folino,"Christopher Folino, Todd Burrows","Action & Adventure, Drama, Mystery & Suspense",-,90 minutes
+86.0,Hotel Transylvania,PG,9/27/2012 0:00,"Don Rhymer, Dan Hageman, Robert Smigel, Peter Baynham",Genndy Tartakovsky,"Animation, Comedy, Kids & Family","$148,280,635.00 ",91 minutes
+87.0,Captain America: The First Avenger,PG-13,7/21/2011 0:00,"Stephen McFeely, Christopher Markus",Joe Johnston,"Action & Adventure, Mystery & Suspense","$176,636,816.00 ",124 minutes
+88.0,My Way,R,12/30/2011 0:00,"Je-gyu Kang, Na Hyun, Byung-in Kim, Kim Byung-In, Kang Je-Kyu, Kang Je-Gyu","Kang Je-Kyu, Je-gyu Kang, Kang Je-Gyu","Art House & International, Documentary, Drama, Special Interest",-,66 minutes
+89.0,Seeking Justice,R,3/15/2012 0:00,"Todd Hickey, Robert Tannen",Roger Donaldson,"Action & Adventure, Drama, Mystery & Suspense","$410,819.00 ",105 minutes
+90.0,Annabelle,R,10/2/2014 0:00,Gary Dauberman,John R. Leonetti,Horror,"$255,273,813.00 ",98 minutes
+91.0,Macbeth,R,12/3/2015 0:00,"Michael Lesslie, Todd Louiso, Jacob Koskoff",Justin Kurzel,"Art House & International, Drama","$13,192,457.00 ",113 minutes
+92.0,Steve Jobs,R,10/22/2015 0:00,Aaron Sorkin,Danny Boyle,Drama,"$34,441,873.00 ",123 minutes
+93.0,Ted,R,6/28/2012 0:00,"Wellesley Wild, Seth MacFarlane, Alec Sulkin",Seth MacFarlane,Comedy,"$218,100,000.00 ",107 minutes
+94.0,Wild Tales,R,2/19/2015 0:00,"Damián Szifron, Damián Szifrón","Damián Szifron, Damián Szifrón","Comedy, Drama, Mystery & Suspense","$27,007,072.00 ",122 minutes
+95.0,That's My Boy,R,6/14/2012 0:00,"David Caspe, Ken Marino, David Wain",Sean Anders,Comedy,"$36,900,000.00 ",116 minutes
+96.0,The Boy,PG-13,8/17/2015 0:00,"Clay McLeod Chapman, Craig William Macneill, Stacey Menear","Craig William Macneill, William Brent Bell","Drama, Horror, Mystery & Suspense","$64,188,367.00 ",105 minutes
+97.0,The Boy,PG-13,1/21/2016 0:00,Stacey Menear,William Brent Bell,"Horror, Mystery & Suspense","$64,188,367.00 ",98 minutes
+98.0,The Witch,R,3/31/2016 0:00,Robert Eggers,Robert Eggers,Horror,"$40,423,945.00 ",92 minutes
+99.0,The Age of Adaline,PG-13,4/23/2015 0:00,"Allison Burnett, J. Mills Goodloe, Salvador Paskowitz",Lee Toland Krieger,"Drama, Science Fiction & Fantasy","$42,629,776.00 ",112 minutes
+100.0,The Kid with a Bike,PG-13,3/15/2012 0:00,"Jean-Pierre Dardenne, Luc Dardenne","Jean-Pierre Dardenne, Luc Dardenne","Art House & International, Drama","$1,384,749.00 ",87 minutes
+101.0,The Skin I Live In,R,10/13/2011 0:00,"Pedro Almodóvar, Agustín Almodóvar",Pedro Almodóvar,"Art House & International, Drama, Mystery & Suspense","$3,185,193.00 ",117 minutes
+102.0,The Company You Keep,R,4/4/2013 0:00,Lem Dobbs,Robert Redford,Mystery & Suspense,"$5,132,442.00 ",121 minutes
+103.0,"I, Frankenstein",PG-13,1/23/2014 0:00,"Kevin Grevioux, Stuart Beattie",Stuart Beattie,"Horror, Mystery & Suspense, Science Fiction & Fantasy","$71,154,592.00 ",92 minutes
+104.0,The SpongeBob Movie: Sponge Out of Water,PG,2/5/2015 0:00,"Paul Tibbitt, Stephen Hillenburg, Jonathan Aibel, Glenn Berger",Paul Tibbitt,"Animation, Comedy, Kids & Family","$311,594,032.00 ",100 minutes
+105.0,God Bless America,R,5/10/2012 0:00,Bobcat Goldthwait,Bobcat Goldthwait,"Comedy, Drama","$122,550.00 ",104 minutes
+106.0,Lola Versus,R,6/7/2012 0:00,"Zoe Lister Jones, Zoe Lister-Jones, Daryl Wein",Daryl Wein,Comedy,"$200,000.00 ",86 minutes
+107.0,Ice Age: A Mammoth Christmas,G,11/24/2011 0:00,"Mike Reiss, Sam Harper",Karen Disher,"Animation, Comedy, Kids & Family",-,26 minutes
+108.0,Machete Kills,R,10/10/2013 0:00,"Robert Rodriguez, Marcel Rodriguez, Kyle Ward",Robert Rodriguez,Action & Adventure,"$15,008,161.00 ",108 minutes
+109.0,Midnight in Paris,PG-13,6/9/2011 0:00,Woody Allen,Woody Allen,"Comedy, Romance","$55,400,000.00 ",94 minutes
+110.0,The Wedding Ringer,R,1/15/2015 0:00,"Jay Lavender, Jeremy Garelick",Jeremy Garelick,Comedy,"$79,799,880.00 ",101 minutes
+111.0,Let Us Prey,R,3/25/2015 0:00,"David Cairns, Hanna Stanbridge, Fiona Watson","Brian O'Malley, Brian S. O'Malley",Horror,-,89 minutes
+112.0,Bad Words,R,3/27/2014 0:00,Andrew Dodge,Jason Bateman,Comedy,"$7,800,000.00 ",89 minutes
+113.0,Love & Friendship,PG,5/12/2016 0:00,Whit Stillman,Whit Stillman,Drama,"$14,013,564.00 ",94 minutes
+114.0,The Nut Job,PG,1/16/2014 0:00,"Lorne Cameron, Peter Lepeniotis, Daniel Woo",Peter Lepeniotis,"Animation, Comedy",-,86 minutes
+115.0,Kill the Messenger,R,10/9/2014 0:00,"Peter Landesman, Gary Webb, Nick Schou",Michael Cuesta,"Drama, Mystery & Suspense","$2,445,646.00 ",112 minutes
+116.0,Pound of Flesh,R,5/14/2015 0:00,Joshua James,Ernie Barbarash,"Action & Adventure, Drama, Mystery & Suspense",-,104 minutes
+117.0,"Monsters, Inc.",G,11/1/2001 0:00,"Dan Gerson, Daniel Gerson, Andrew Stanton","David Silverman, Lee Unkrich, Peter Docter, Pete Docter","Animation, Comedy, Kids & Family, Science Fiction & Fantasy","$34,034,168.00 ",92 minutes
+118.0,Thanks for Sharing,R,9/19/2013 0:00,"Stuart Blumberg, Matt Winston",Stuart Blumberg,"Comedy, Drama","$1,065,881.00 ",112 minutes
+119.0,The Girl King,Premiere,12/3/2015 0:00,Michel Marc Bouchard,Mika Kaurismäki,"Drama, Romance",-,106 minutes
+120.0,Whiskey Tango Foxtrot,R,3/3/2016 0:00,Robert Carlock,"John Requa, Glenn Ficarra","Comedy, Drama","$23,083,334.00 ",111 minutes
+121.0,The Gift,R,8/6/2015 0:00,Joel Edgerton,Joel Edgerton,Mystery & Suspense,"$58,978,653.00 ",108 minutes
+122.0,Chronicle,PG-13,2/2/2012 0:00,"Josh Trank, Max Landis","Joshua Trank, Josh Trank","Art House & International, Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy","$60,800,000.00 ",83 minutes
+123.0,Vacation,R,7/28/2015 0:00,"Jonathan M. Goldstein, Jonathan Goldstein, John Francis Daley","Jonathan M. Goldstein, Jonathan Goldstein, John Francis Daley","Action & Adventure, Comedy","$104,384,188.00 ",99 minutes
+124.0,Jessabelle,PG-13,11/6/2014 0:00,"Ben Garant, Robert Ben Garant",Kevin Greutert,"Drama, Horror",-,90 minutes
+125.0,Alien Outpost,NR,1/29/2015 0:00,"Blake Clifton, Jabbar Raisani",Jabbar Raisani,Action & Adventure,-,90 minutes
+126.0,Terminator Genisys,PG-13,6/30/2015 0:00,"Laeta Kalogridis, Patrick Lussier",Alan Taylor,Action & Adventure,"$440,603,537.00 ",119 minutes
+127.0,The Hobbit: The Desolation of Smaug,PG-13,12/12/2013 0:00,"J.R.R. Tolkien, Philippa Boyens, Fran Walsh, Guillermo del Toro, Peter Jackson",Peter Jackson,"Action & Adventure, Science Fiction & Fantasy","$958,400,000.00 ",161 minutes
+128.0,The Right Kind of Wrong,R,3/13/2014 0:00,"Megan Martin, Tim Sandlin",Jeremiah S. Chechik,"Comedy, Romance","$2,022.00 ",97 minutes
+129.0,Holy Motors,NR,10/16/2012 0:00,Leos Carax,Leos Carax,"Drama, Science Fiction & Fantasy, Special Interest","$641,054.00 ",115 minutes
+130.0,The Five-Year Engagement,R,4/26/2012 0:00,"Jason Segel, Nicholas Stoller",Nicholas Stoller,Comedy,"$28,644,770.00 ",124 minutes
+131.0,Rock the Kasbah,R,10/22/2015 0:00,Mitch Glazer,Barry Levinson,Drama,"$3,020,664.00 ",100 minutes
+132.0,The Good Lie,PG-13,10/2/2014 0:00,"Shawn Linden, Margaret Nagle","Shawn Linden, Philippe Falardeau","Drama, Mystery & Suspense",-,110 minutes
+133.0,Cooties,R,9/17/2015 0:00,"Leigh Whannell, Ian Brennan","Cary Murnion, Jonathan Milott","Comedy, Horror",-,87 minutes
+134.0,Rampart,R,2/9/2012 0:00,"James Ellroy, Oren Moverman",Oren Moverman,"Action & Adventure, Drama, Mystery & Suspense","$969,239.00 ",107 minutes
+135.0,Mama,PG-13,1/17/2013 0:00,"Neil Cross, Andy Muschietti, Barbara Muschietti",Andy Muschietti,"Art House & International, Horror","$71,588,220.00 ",100 minutes
+136.0,The Purge,R,6/6/2013 0:00,James DeMonaco,James DeMonaco,"Mystery & Suspense, Science Fiction & Fantasy","$64,400,000.00 ",85 minutes
+137.0,Big Eyes,PG-13,12/24/2014 0:00,"Larry Karaszewski, Scott Alexander",Tim Burton,Drama,"$28,883,511.00 ",106 minutes
+138.0,Ant-Man,PG-13,7/16/2015 0:00,"Edgar Wright, Stan Lee, Joe Cornish, Paul Rudd, Adam McKay, Larry Lieber, Jack Kirby",Peyton Reed,"Action & Adventure, Comedy, Mystery & Suspense, Science Fiction & Fantasy","$518,178,306.00 ",115 minutes
+139.0,American Heist,R,7/23/2015 0:00,Raul Inglis,Sarik Andreasyan,"Action & Adventure, Drama",-,94 minutes
+140.0,The Kings of Summer,R,5/30/2013 0:00,Chris Galletta,Jordan Vogt-Roberts,Comedy,"$1,300,000.00 ",95 minutes
+141.0,Barbie: Princess Charm School,PG,12/2/2012 0:00,"Steve Granat, Elise Allen, Cynde Clark","Zeke Norton, Ezekiel Norton","Animation, Kids & Family",-,86 minutes
+142.0,"Love, Rosie",R,2/5/2015 0:00,Juliette Towhidi,Christian Ditter,"Comedy, Romance","$4,439,431.00 ",102 minutes
+143.0,Neighbors,R,5/8/2014 0:00,"Brendan O'Brien, Andrew Jay Cohen, Andrew J. Cohen",Nicholas Stoller,Comedy,"$268,157,400.00 ",97 minutes
+144.0,Chinese Zodiac,PG-13,10/17/2013 0:00,"Edward Tang, Stanley Tong, Frankie Chan Fan-Kei, Jackie Chan",Jackie Chan,Action & Adventure,-,141 minutes
+145.0,Man on a Ledge,PG-13,1/26/2012 0:00,Pablo F. Fenjves,Asger Leth,"Drama, Mystery & Suspense","$18,400,000.00 ",102 minutes
+146.0,A Case of You,R,11/5/2013 0:00,"Justin Long, Keir O'Donnell, Christian Long",Kat Coiro,"Comedy, Romance","$4,187.00 ",91 minutes
+147.0,Butter,R,10/4/2012 0:00,Jason A. Micallef,Jim Field Smith,"Comedy, Drama","$70,931.00 ",91 minutes
+148.0,So Undercover,PG-13,10/4/2012 0:00,"Allan Loeb, Steven Pearl, Steve Pearl",Tom Vaughan,"Action & Adventure, Comedy",-,96 minutes
+149.0,The Devil Inside,R,1/5/2012 0:00,"Matthew Peterman, William Brent Bell",William Brent Bell,Horror,"$53,245,055.00 ",83 minutes
+150.0,Enemy,R,3/13/2014 0:00,"Javier Gullón, José Saramago",Denis Villeneuve,Mystery & Suspense,-,90 minutes
+151.0,Sicario,R,10/1/2015 0:00,Taylor Sheridan,Denis Villeneuve,"Action & Adventure, Drama, Mystery & Suspense","$84,025,816.00 ",121 minutes
+152.0,Bounty Killer,R,9/5/2013 0:00,"Jason Dodson, Colin Ebeling, Jason Netter, Henry Saine",Henry Saine,"Action & Adventure, Drama, Mystery & Suspense",-,92 minutes
+153.0,Empire State,R,8/29/2013 0:00,Adam Mazer,Dito Montiel,Drama,"$3,639,345.00 ",94 minutes
+154.0,The Loft,R,1/29/2015 0:00,"Bart De Pauw, Wesley Strick",Erik Van Looy,"Drama, Mystery & Suspense",-,103 minutes
+155.0,The Descendants,R,11/17/2011 0:00,"Jim Rash, Nat Faxon, Alexander Payne",Alexander Payne,"Comedy, Drama","$78,500,000.00 ",115 minutes
+156.0,Vehicle 19,R,6/13/2013 0:00,Mukunda Michael Dewil,Mukunda Michael Dewil,Mystery & Suspense,-,85 minutes
+157.0,Vampire Academy,PG-13,2/6/2014 0:00,Daniel Waters,"Mark Waters, Mark Waters (VIII)","Action & Adventure, Comedy, Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy, Romance",-,105 minutes
+158.0,Final Destination 5,R,8/11/2011 0:00,Eric Heisserer,Steven Quale,Horror,"$42,500,000.00 ",92 minutes
+159.0,Amateur Night,NR,8/4/2016 0:00,"Joe Syracuse, Lisa Addario","Joe Syracuse, Lisa Addario",Comedy,-,93 minutes
+160.0,Contraband,R,1/12/2012 0:00,Aaron Guzikowski,Baltasar Kormákur,"Action & Adventure, Mystery & Suspense","$66,489,425.00 ",109 minutes
+161.0,Winnie the Pooh,G,7/14/2011 0:00,"Don Dougherty, Stephen John Anderson, Clio Chiang, Stephen J. Anderson, Brian Kesinger, Stephen Anderson, Kendelle Hoyer, Don Hall, Jeremy Spears, A.A. Milne, Nicole Mitchell","Stephen Anderson, Don Hall, Stephen John Anderson, Stephen J. Anderson","Animation, Kids & Family","$26,687,172.00 ",73 minutes
+162.0,Memories of the Sword,15�?� �?��?? �?�??�?,8/27/2015 0:00,"Ah-reum Choi, Choi Ah-reum, Park Heung-shik, Heung-Sik Park","Park Heung-shik, Heung-Sik Park","Action & Adventure, Drama","$109,972.00 ",121 minutes
+163.0,The Muppets,PG,11/22/2011 0:00,"Jason Segel, Nicholas Stoller",James Bobin,"Comedy, Kids & Family","$88,625,922.00 ",102 minutes
+164.0,The Invitation,Premiere,4/7/2016 0:00,"Matt Manfredi, Phil Hay",Karyn Kusama,Mystery & Suspense,"$231,703.00 ",100 minutes
+165.0,A Perfect Day,R,1/14/2016 0:00,"Diego Farias, Fernando León de Aranoa",Fernando León de Aranoa,"Art House & International, Drama","$1,702,433.00 ",106 minutes
+166.0,Jupiter Ascending,PG-13,2/5/2015 0:00,"Lilly Wachowski, Lana Wachowski, Andy Wachowski","Lilly Wachowski, Lana Wachowski, Andy Wachowski","Action & Adventure, Science Fiction & Fantasy","$183,987,723.00 ",125 minutes
+167.0,Miss You Already,PG-13,11/5/2015 0:00,Morwenna Banks,Catherine Hardwicke,"Art House & International, Comedy, Drama, Romance",-,112 minutes
+168.0,The Assassin,Theatrical,10/15/2015 0:00,"Hai Meng Hsieh, T'ien-wen Chu, Hou Hsiao-hsien, Hsiao-hsien Hou, Hai-Meng Hsieh, Cheng Ah","Hsiao-hsien Hou, Hou Hsiao-hsien","Action & Adventure, Art House & International, Drama",-,120 minutes
+169.0,Spare Parts,PG-13,1/15/2015 0:00,"Elissa Matueda, Elissa Matsueda",Sean McNamara,"Drama, Kids & Family",-,114 minutes
+170.0,Detention,R,4/12/2012 0:00,"Joseph Kahn, Mark Palermo, Peter Jurt, Marc Palermo","Claudia Jurt, Joseph Kahn, Peter Jurt","Comedy, Horror",-,93 minutes
+171.0,Intruders,R,3/29/2012 0:00,"Jaime Marques, Nicolás Casariego",Juan Carlos Fresnadillo,"Horror, Mystery & Suspense","$64,727.00 ",100 minutes
+172.0,The Diary of a Teenage Girl,R,8/6/2015 0:00,"Phoebe Gloeckner, Marielle Heller",Marielle Heller,Drama,"$1,477,002.00 ",102 minutes
+173.0,Night Train to Lisbon,R,12/5/2013 0:00,"Greg Latter, Ulrich Herrmann",Bille August,"Mystery & Suspense, Romance",-,109 minutes
+174.0,The Voices,R,2/5/2015 0:00,"Michael Perry, Michael R. Perry",Marjane Satrapi,Comedy,-,107 minutes
+175.0,Hungry Hearts,Theatrical (limited),6/4/2015 0:00,Saverio Costanzo,Saverio Costanzo,Drama,"$6,921.00 ",109 minutes
+176.0,Whiplash,R,10/9/2014 0:00,Damien Chazelle,Damien Chazelle,Drama,"$13,993,092.00 ",106 minutes
+177.0,The One I Love,R,8/21/2014 0:00,Justin Lader,Charlie McDowell,"Comedy, Drama","$511,635.00 ",91 minutes
+178.0,The Captive,R,12/8/2014 0:00,"David Fraser, Atom Egoyan",Atom Egoyan,Mystery & Suspense,"$1,075,178.00 ",112 minutes
+179.0,Return to Nim's Island,PG,3/18/2013 0:00,"Cathy Randall, Ray Boseley",Brendan Maher,"Art House & International, Kids & Family",-,90 minutes
+180.0,Dark Places,R,8/6/2015 0:00,"Gillian Flynn, Gilles Paquet-Brenner",Gilles Paquet-Brenner,"Drama, Mystery & Suspense","$208,588.00 ",114 minutes
+181.0,What If,PG-13,8/7/2014 0:00,Elan Mastai,Michael Dowse,Comedy,"$7,847,000.00 ",102 minutes
+182.0,The Angry Birds Movie,PG,5/19/2016 0:00,Jon Vitti,"Clay Kaytis, Fergal Reilly","Animation, Kids & Family","$107,506,776.00 ",95 minutes
+183.0,The Adventurer: The Curse of the Midas Box,PG,1/9/2014 0:00,"Matthew Huffman, Christian Taylor",Jonathan Newman,"Action & Adventure, Kids & Family, Science Fiction & Fantasy","$6,399.00 ",98 minutes
+184.0,Wolf Creek 2,R,5/15/2014 0:00,"Aaron Sterns, Greg McLean",Greg McLean,Horror,"$9,630,444.00 ",106 minutes
+185.0,Reasonable Doubt,R,1/16/2014 0:00,Peter A. Dowling,"Peter P. Croudins, Peter Howitt","Drama, Mystery & Suspense",-,91 minutes
+186.0,Kill for Me,R,2/12/2013 0:00,"Michael Greenspan, Christopher Dodd, Christian Forte",Michael Greenspan,"Art House & International, Drama, Mystery & Suspense",-,95 minutes
+187.0,Pompeii,PG-13,2/20/2014 0:00,"Lee Batchelor, Janet Scott Batchler, Michael Robert Johnson, Lee Batchler, Janet Scott Batchelor",Paul W.S. Anderson,"Action & Adventure, Drama, Mystery & Suspense","$117,831,631.00 ",105 minutes
+188.0,A Very Harold & Kumar Christmas,R,11/3/2011 0:00,"Hayden Schlossberg, Jon Hurwitz",Todd Strauss-Schulson,Comedy,"$34,400,000.00 ",91 minutes
+189.0,I Give It a Year,R,8/8/2013 0:00,Dan Mazer,Dan Mazer,"Art House & International, Comedy, Romance","$28,234,657.00 ",97 minutes
+190.0,This Means War,PG-13,2/13/2012 0:00,"Timothy Dowling, Simon Kinberg",McG,"Action & Adventure, Comedy, Romance","$54,758,461.00 ",98 minutes
+191.0,The Giver,PG-13,8/14/2014 0:00,"Michael Mitnick, Robert B. Weide, Lois Lowry, Vadim Perelman",Phillip Noyce,"Drama, Science Fiction & Fantasy","$66,980,456.00 ",140 minutes
+192.0,Honeymoon,R,9/11/2014 0:00,"Leigh Janiak, Phil Graziadei",Leigh Janiak,Drama,"$9,168.00 ",87 minutes
+193.0,The Watch,R,7/26/2012 0:00,"Evan Goldberg, Justin Theroux, Jared Stern, Seth Rogen",Akiva Schaffer,"Comedy, Science Fiction & Fantasy","$34,100,000.00 ",101 minutes
+194.0,Some Velvet Morning,R,12/12/2013 0:00,Neil LaBute,Neil LaBute,Drama,"$6,420.00 ",82 minutes
+195.0,Space Station 76,R,9/18/2014 0:00,"Jack Plotnick, Kali Rocha, Sam Pancake, Jennifer Elise Cox, Michael Stoyanov",Jack Plotnick,"Comedy, Drama, Science Fiction & Fantasy",-,94 minutes
+196.0,Broken City,R,1/17/2013 0:00,Brian Tucker,Allen Hughes,Drama,"$19,600,000.00 ",108 minutes
+197.0,Sharknado,NR,8/2/2013 0:00,Thunder Levin,Anthony C. Ferrante,"Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy, Television",-,90 minutes
+198.0,Fed Up,PG,5/8/2014 0:00,"Mark Monroe, Stephanie Soechtig",Stephanie Soechtig,"Documentary, Special Interest, Sports & Fitness","$1,538,898.00 ",92 minutes
+199.0,The Impossible,PG-13,12/20/2012 0:00,Sergio G. Sánchez,"Juan Antonio Bayona, J.A. Bayona","Action & Adventure, Drama","$18,996,755.00 ",113 minutes
+200.0,The Peanuts Movie,G,11/5/2015 0:00,"Craig Schulz, Bryan Schulz, Charles M. Schulz, Cornelius Uliano",Steve Martino,"Animation, Kids & Family","$246,233,113.00 ",92 minutes
+201.0,Amy,R,7/2/2015 0:00,Asif Kapadia,Asif Kapadia,"Art House & International, Documentary, Musical & Performing Arts, Special Interest","$8,413,144.00 ",128 minutes
+202.0,Let's Be Cops,R,8/12/2014 0:00,"Luke Greenfield, Nicholas Thomas",Luke Greenfield,"Action & Adventure, Comedy","$136,621,271.00 ",109 minutes
+203.0,Rob the Mob,R,3/20/2014 0:00,Jonathan Fernandez,Raymond De Felitta,"Comedy, Drama","$206,909.00 ",104 minutes
+204.0,Taken 3,PG-13,1/8/2015 0:00,"Robert Mark Kamen, Luc Besson",Olivier Megaton,Action & Adventure,"$325,771,424.00 ",93 minutes
+205.0,Everly,R,2/26/2015 0:00,Yale Hannon,Joe Lynch,Mystery & Suspense,-,92 minutes
+206.0,Son of a Gun,R,1/22/2015 0:00,Julius Avery,Julius Avery,Drama,-,108 minutes
+207.0,Brick Mansions,PG-13,4/24/2014 0:00,"Bibi Naceri, Robert Mark Kamen, Luc Besson",Camille Delamarre,"Action & Adventure, Drama","$68,896,829.00 ",90 minutes
+208.0,The Last Circus,R,8/18/2011 0:00,�?lex de la Iglesia,�?lex de la Iglesia,"Art House & International, Comedy, Drama","$3,218,666.00 ",107 minutes
+209.0,Going Clear: Scientology and the Prison of Belief,Theatrical,3/12/2015 0:00,Alex Gibney,Alex Gibney,Documentary,-,120 minutes
+210.0,The Zero Theorem,R,9/18/2014 0:00,Pat Rushin,Terry Gilliam,"Drama, Science Fiction & Fantasy","$770,706.00 ",107 minutes
+211.0,Burnt,R,10/29/2015 0:00,Steven Knight,John Wells,Comedy,"$36,606,743.00 ",100 minutes
+212.0,Interrogation,R,9/20/2016 0:00,"Michael Finch, Adam Rodin",Stephen Reynolds,"Action,Thriller",-,93 minutes
+213.0,A Hijacking,R,6/20/2013 0:00,Tobias Lindholm,Tobias Lindholm,Mystery & Suspense,-,99 minutes
+214.0,The Book Thief,PG-13,11/7/2013 0:00,Michael Petroni,Brian Percival,Drama,"$76,586,316.00 ",130 minutes
+215.0,Ten Thousand Saints,R,8/13/2015 0:00,"Robert Pulcini, Shari Springer Berman","Robert Pulcini, Shari Springer Berman","Comedy, Drama",-,113 minutes
+216.0,Focus,R,2/26/2015 0:00,"John Requa, Glenn Ficarra","John Requa, Glenn Ficarra","Comedy, Drama","$153,962,963.00 ",104 minutes
+217.0,Norm of the North,PG,1/14/2016 0:00,"Derek Elliott, Daniel Altiere, Malcolm T. Goldman, Jack Donaldson, Steven Altiere",Trevor Wall,"Action & Adventure, Animation, Comedy","$17,062,499.00 ",86 minutes
+218.0,Rush,R,9/26/2013 0:00,Peter Morgan,Ron Howard,"Action & Adventure, Drama","$90,247,624.00 ",123 minutes
+219.0,Project X,R,3/1/2012 0:00,"Michael Bacall, Matt Drake",Nima Nourizadeh,"Comedy, Drama, Science Fiction & Fantasy","$53,400,000.00 ",88 minutes
+220.0,A Common Man,PG-13,3/14/2013 0:00,"Chandran Rutnam, Neeraj Pandey",Chandran Rutnam,"Action & Adventure, Drama, Mystery & Suspense",-,86 minutes
+221.0,The Humbling,R,1/22/2015 0:00,"Buck Henry, Michael Zebede, Michal Zebede",Barry Levinson,Drama,-,102 minutes
+222.0,Pain & Gain,R,4/25/2013 0:00,"Stephen McFeely, Christopher Markus",Michael Bay,Action & Adventure,"$49,300,000.00 ",129 minutes
+223.0,Tinker Tailor Soldier Spy,R,12/8/2011 0:00,"Peter Straughan, Bridget O'Connor",Tomas Alfredson,"Drama, Mystery & Suspense","$20,200,000.00 ",128 minutes
+224.0,The Odd Life of Timothy Green,PG,8/14/2012 0:00,"Peter Hedges, Ahmet Zappa",Peter Hedges,"Comedy, Science Fiction & Fantasy","$51,853,450.00 ",100 minutes
+225.0,My Big Fat Greek Wedding 2,PG-13,3/24/2016 0:00,Nia Vardalos,Kirk Jones,Comedy,"$88,923,251.00 ",94 minutes
+226.0,Vikingdom,NR,10/3/2013 0:00,James Coyne,Yusry Abdul Halim,Action & Adventure,-,114 minutes
+227.0,Special Forces,R,10/11/2012 0:00,"Michael Cooper, Stéphane Rybojad",Stéphane Rybojad,"Action & Adventure, Drama","$10,759.00 ",107 minutes
+228.0,A Hologram for the King,R,4/21/2016 0:00,Tom Tykwer,Tom Tykwer,Drama,-,90 minutes
+229.0,The Tree of Life,PG-13,5/26/2011 0:00,Terrence Malick,Terrence Malick,"Action & Adventure, Drama, Science Fiction & Fantasy","$13,303,319.00 ",139 minutes
+230.0,RoboCop,PG-13,2/11/2014 0:00,"Michael Miner, Ed Neumeier, Joshua Zetumer, Josh Zetumer, Nick Schenk",José Padilha,"Action & Adventure, Science Fiction & Fantasy","$239,379,423.00 ",117 minutes
+231.0,Black Sea,R,1/22/2015 0:00,Dennis Kelly,Kevin Macdonald,"Action & Adventure, Drama, Mystery & Suspense","$1,171,559.00 ",115 minutes
+232.0,Alex Cross,PG-13,10/18/2012 0:00,"Marc Moss, Kerry Williamson",Rob Cohen,"Action & Adventure, Mystery & Suspense","$25,863,915.00 ",101 minutes
+233.0,A Royal Night Out,PG-13,12/3/2015 0:00,"Trevor DeSilva, Trevor De Silva, Kevin Hood",Julian Jarrold,"Art House & International, Drama, Mystery & Suspense, Romance","$228,136.00 ",97 minutes
+234.0,Mr. Right,R,4/7/2016 0:00,Max Landis,Paco Cabezas,"Action & Adventure, Comedy, Romance",-,90 minutes
+235.0,Olympus Has Fallen,R,3/21/2013 0:00,"Creighton Rothenberger, Katrin Benedikt",Antoine Fuqua,"Action & Adventure, Drama","$98,600,000.00 ",119 minutes
+236.0,Ouija,PG-13,10/23/2014 0:00,"Juliet Snowden, Stiles White, Simon Kinberg","McG, Stiles White","Action & Adventure, Horror, Mystery & Suspense","$102,529,779.00 ",83 minutes
+237.0,The Angriest Man in Brooklyn,R,5/22/2014 0:00,"Daniel Taplitz, Assi Dayan",Phil Alden Robinson,"Comedy, Drama",-,87 minutes
+238.0,Carol,R,11/19/2015 0:00,Phyllis Nagy,Todd Haynes,"Drama, Romance","$40,272,135.00 ",118 minutes
+239.0,The Tall Man,R,8/30/2012 0:00,Pascal Laugier,Pascal Laugier,"Horror, Mystery & Suspense",-,100 minutes
+240.0,Hara-Kiri: Death of a Samurai,Theatrical,7/19/2012 0:00,"Yasuhiko Takiguchi, Kikumi Yamagishi","Takashi Miike, Kikumi Yamagishi","Action & Adventure, Art House & International, Drama","$60,201.00 ",126 minutes
+241.0,Chef,R,5/8/2014 0:00,Jon Favreau,Jon Favreau,Comedy,"$45,967,935.00 ",115 minutes
+242.0,The Turin Horse,Theatrical,2/9/2012 0:00,"Béla Tarr, László Krasznahorkai, Bela Tarr","Béla Tarr, Bela Tarr, �?gnes Hranitzky","Art House & International, Drama","$53,690.00 ",146 minutes
+243.0,Kung Fu Panda 3,PG,1/28/2016 0:00,"Jonathan Aibel, Glenn Berger","Jennifer Yuh, Alessandro Carloni, Jennifer Yuh Nelson",Animation,"$519,881,355.00 ",94 minutes
+244.0,Doomsday,R,12/18/2015 0:00,"Neil Johnson, Neil Marshall","Neil Johnson, Neil Marshall","Action & Adventure, Science Fiction & Fantasy","$22,211,426.00 ",94 minutes
+245.0,Restitution,R,10/27/2011 0:00,"Mark Bierlein, Lance Kawas","Lance K. R. Kawas, Lance Kawas","Action & Adventure, Mystery & Suspense",-,101 minutes
+246.0,X-Men: Days of Future Past,PG-13,5/22/2014 0:00,"Matthew Vaughn, Simon Kinberg, Jane Goldman",Bryan Singer,"Action & Adventure, Science Fiction & Fantasy","$746,000,000.00 ",131 minutes
+247.0,Pride,R,9/25/2014 0:00,Stephen Beresford,Matthew Warchus,"Comedy, Drama","$7,523,634.00 ",120 minutes
+248.0,Beyond the Lights,PG-13,11/13/2014 0:00,Gina Prince-Bythewood,Gina Prince-Bythewood,Drama,"$14,617,945.00 ",102 minutes
+249.0,Unfriended,R,4/16/2015 0:00,Nelson Greaves,Levan Gabriadze,"Horror, Mystery & Suspense","$62,882,090.00 ",82 minutes
+250.0,12 Rounds 3: Lockdown,R,9/10/2015 0:00,"Nathan Brookes, Bobby Lee Darby",Stephen Reynolds,Action & Adventure,-,90 minutes
+251.0,"As Above, So Below",R,8/28/2014 0:00,"Drew Dowdle, John Erick Dowdle",John Erick Dowdle,"Documentary, Mystery & Suspense, Special Interest","$40,100,000.00 ",93 minutes
+252.0,Battle of the Year,PG-13,9/19/2013 0:00,"Brin Hill, Chris Parker",Benson Lee,"Drama, Musical & Performing Arts, Special Interest","$8,888,355.00 ",109 minutes
+253.0,The Hunt,R,7/11/2013 0:00,"Thomas Vinterberg, Tobias Lindholm",Thomas Vinterberg,Drama,"$610,968.00 ",111 minutes
+254.0,Scouts Guide to the Zombie Apocalypse,R,10/29/2015 0:00,"Christopher Landon, Carrie Evans, Carrie Lee Wilson, Lona Williams, Emi Mochizuki, Christopher B. Landon","Christopher Landon, Christopher B. Landon","Comedy, Horror","$14,860,766.00 ",93 minutes
+255.0,Much Ado About Nothing,PG-13,6/6/2013 0:00,Joss Whedon,Joss Whedon,Comedy,"$4,200,000.00 ",108 minutes
+256.0,Maleficent,PG,5/29/2014 0:00,Linda Woolverton,Robert Stromberg,Science Fiction & Fantasy,"$758,410,378.00 ",97 minutes
+257.0,Starred Up,Premiere,8/26/2014 0:00,Jonathan Asser,David Mackenzie,Drama,"$54,915.00 ",106 minutes
+258.0,Abraham Lincoln: Vampire Hunter,R,6/21/2012 0:00,"Simon Kinberg, Seth Grahame-Smith",Timur Bekmambetov,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy","$37,300,000.00 ",105 minutes
+259.0,Jobs,PG-13,8/15/2013 0:00,Matt Whiteley,Joshua Michael Stern,Drama,"$16,117,443.00 ",129 minutes
+260.0,Don Jon,R,9/26/2013 0:00,Joseph Gordon-Levitt,Joseph Gordon-Levitt,"Comedy, Drama",-,90 minutes
+261.0,A.C.O.D.,R,10/3/2013 0:00,"Ben Karlin, Stuart Zicherman, Stu Zicherman","Stuart Zicherman, Stu Zicherman",Comedy,"$175,705.00 ",87 minutes
+262.0,Dying of the Light,R,12/4/2014 0:00,Paul Schrader,Paul Schrader,"Drama, Mystery & Suspense",-,93 minutes
+263.0,Ender's Game,PG-13,10/31/2013 0:00,Gavin Hood,Gavin Hood,"Action & Adventure, Science Fiction & Fantasy","$61,656,849.00 ",113 minutes
+264.0,ARQ,Digital,9/16/2016 0:00,Tony Elliott,Tony Elliott,"Drama, Mystery & Suspense, Science Fiction & Fantasy",-,88 minutes
+265.0,Lawless,R,8/28/2012 0:00,Nick Cave,John Hillcoat,Drama,"$36,300,000.00 ",115 minutes
+266.0,Seventh Son,PG-13,2/5/2015 0:00,"Matt Greenberg, Aaron Guzikowski, Charles Leavitt, Max Borenstein","Sergey Bodrov, Sergei Bodrov","Drama, Science Fiction & Fantasy","$114,178,613.00 ",102 minutes
+267.0,Zookeeper,PG,7/7/2011 0:00,"David Ronn, Kevin James, Jay Scherick, Nick Bakay, Rock Reuben",Frank Coraci,"Comedy, Romance","$80,360,866.00 ",101 minutes
+268.0,Danny Collins,R,4/9/2015 0:00,Dan Fogelman,Dan Fogelman,"Comedy, Drama, Musical & Performing Arts","$10,835,752.00 ",106 minutes
+269.0,The Incredible Burt Wonderstone,PG-13,3/14/2013 0:00,"Jonathan Goldstein, Tyler Mitchell, John Francis Daley, Chad Kultgen, Jonathan M. Goldstein, Jason Reitman",Don Scardino,Comedy,"$22,525,921.00 ",100 minutes
+270.0,Barbie: The Pearl Princess,G,1/31/2014 0:00,"Cydne Clark, Steve Granat","Terry Klassen, Ezekiel Norton",Animation,-,74 minutes
+271.0,Life,R,12/3/2015 0:00,Luke Davies,Anton Corbijn,Drama,-,112 minutes
+272.0,Star Trek Into Darkness,PG-13,5/15/2013 0:00,"Alex Kurtzman, Damon Lindelof, Roberto Orci",J.J. Abrams,Science Fiction & Fantasy,"$228,756,232.00 ",131 minutes
+273.0,Beyond the Mask,PG,4/5/2015 0:00,"Paul McCusker, Brennan Smith, Stephen Kendrick",Chad Burns,"Action & Adventure, Drama","$1,231,025.00 ",103 minutes
+274.0,Breathe In,R,3/27/2014 0:00,"Ben York Jones, Drake Doremus",Drake Doremus,"Drama, Romance","$15,000.00 ",97 minutes
+275.0,Shaun the Sheep Movie,PG,8/4/2015 0:00,"Richard Starzack, Richard Starzak, Mark Burton","Richard Starzack, Richard Starzak, Mark Burton","Animation, Comedy","$59,700,000.00 ",84 minutes
+276.0,Paranoia,PG-13,8/15/2013 0:00,"Barry L. Levy, Jason Dean Hall, Barry Levy",Robert Luketic,"Drama, Mystery & Suspense","$13,785,015.00 ",106 minutes
+277.0,The Revenant,R,12/24/2015 0:00,"Alejandro González Iñárritu, Mark L. Smith",Alejandro González Iñárritu,"Action & Adventure, Drama","$532,925,985.00 ",156 minutes
+278.0,Wreck-It Ralph,PG,11/1/2012 0:00,"Rich Moore, Phil Johnston, Jennifer Lee",Rich Moore,"Animation, Comedy, Kids & Family","$189,412,677.00 ",92 minutes
+279.0,Cold Comes the Night,R,1/9/2014 0:00,"Nick Simon (II), Oz Perkins, Nick Simon, Tze Chun",Tze Chun,"Drama, Mystery & Suspense","$16,971.00 ",91 minutes
+280.0,About Last Night,R,2/13/2014 0:00,"Leslye Headland, David Mamet",Steve Pink,"Comedy, Romance","$49,002,684.00 ",100 minutes
+281.0,The Dinosaur Project,PG-13,8/9/2012 0:00,"Jay Basu, Sid Bennett",Sid Bennett,"Action & Adventure, Science Fiction & Fantasy",-,83 minutes
+282.0,Fathers and Daughters,R,7/7/2016 0:00,Brad Desch,Gabriele Muccino,"Art House & International, Drama",-,116 minutes
+283.0,5 Flights Up,PG-13,5/7/2015 0:00,Charlie Peters,Richard Loncraine,Drama,"$1,020,921.00 ",92 minutes
+284.0,Piranha 3DD,R,5/31/2012 0:00,"Joel Soisson, Marcus Dunstan, Patrick Melton",John Gulager,"Action & Adventure, Comedy, Horror, Science Fiction & Fantasy","$370,904.00 ",83 minutes
+285.0,Good Kill,R,5/14/2015 0:00,Andrew Niccol,Andrew Niccol,Mystery & Suspense,"$316,472.00 ",103 minutes
+286.0,Baggage Claim,PG-13,9/26/2013 0:00,David E. Talbert,David E. Talbert,Comedy,"$22,456,509.00 ",96 minutes
+287.0,"Men, Women & Children",R,9/30/2014 0:00,"Jason Reitman, Erin Cressida Wilson",Jason Reitman,"Comedy, Drama","$461,162.00 ",119 minutes
+288.0,In the Fog,Theatrical,6/13/2013 0:00,"Sergey Loznitsa, Sergei Loznitsa","Sergey Loznitsa, Sergei Loznitsa","Art House & International, Drama",-,127 minutes
+289.0,The Woman in the Fifth,R,6/14/2012 0:00,"Pavel Pavlikovskiy, Pawel Pawlikowski, Douglas Kennedy, Pawe�? Pawlikowski","Pavel Pavlikovskiy, Pawel Pawlikowski, Pawe�? Pawlikowski",Mystery & Suspense,"$112,498.00 ",83 minutes
+290.0,Maze Runner: The Scorch Trials,PG-13,9/17/2015 0:00,T.S. Nowlin,Wes Ball,Action & Adventure,"$311,256,926.00 ",120 minutes
+291.0,The Help,PG-13,8/9/2011 0:00,Tate Taylor,Tate Taylor,Drama,"$169,705,587.00 ",137 minutes
+292.0,African Cats,G,4/21/2011 0:00,"Keith Scholey, John Truby","Keith Scholey, Alastair Fothergill","Action & Adventure, Documentary, Special Interest","$15,415,270.00 ",89 minutes
+293.0,Battle Royale,R,12/31/1999 0:00,"Kenta Fukasaku, Koushun Takami",Kinji Fukasaku,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",-,114 minutes
+294.0,Oldboy,R,11/26/2013 0:00,Mark Protosevich,Spike Lee,"Action & Adventure, Drama, Mystery & Suspense","$4,861,022.00 ",104 minutes
+295.0,Survivor,PG-13,5/28/2015 0:00,Philip Shelby,James McTeigue,"Action & Adventure, Mystery & Suspense",-,96 minutes
+296.0,John Wick,R,10/23/2014 0:00,"Joel Zadak, Derek Kolstad","Chad Stahelski, David Leitch",Action & Adventure,"$78,739,897.00 ",96 minutes
+297.0,About Cherry,R,9/20/2012 0:00,"Stephen Elliott, Lorelei Lee",Stephen Elliott,Drama,"$3,003.00 ",102 minutes
+298.0,Holidays,Premiere,4/21/2016 0:00,"Gary Shore, Kevin Smith, Scott Stewart, Nicholas McCarthy, Anthony Scott Burns, Kevin Kolsch, Sarah Adina Smith, Dennis Widmyer","Gary Shore, Kevin Smith, Scott Stewart, Nicholas McCarthy, Anthony Scott Burns, Adam Egypt Mortimer, Kevin Kolsch, Sarah Adina Smith, Dennis Widmyer, Matt Johnson",Comedy,-,104 minutes
+299.0,Wild,R,12/2/2014 0:00,Nick Hornby,Jean-Marc Vallée,Drama,"$52,501,541.00 ",115 minutes
+300.0,Erased,R,5/16/2013 0:00,Arash Amel,Philipp Stölzl,"Action & Adventure, Mystery & Suspense",-,104 minutes
+301.0,Lady and the Tramp,G,6/21/1955 0:00,"Joe Rinaldi, Erdman Penner, Don DaGradi, Ralph Wright, Ward Greene","Clyde Geronimi, Wilfred Jackson, Hamilton Luske","Animation, Drama, Kids & Family","$93,600,000.00 ",76 minutes
+302.0,Race,PG-13,2/18/2016 0:00,"Anna Waterhouse, Joe Shrapnel",Stephen Hopkins,Drama,"$24,804,129.00 ",90 minutes
+303.0,Goosebumps,PG,10/15/2015 0:00,Darren Lemke,Rob Letterman,"Horror, Kids & Family, Mystery & Suspense","$150,170,815.00 ",103 minutes
+304.0,No Escape,R,8/25/2015 0:00,"Drew Dowdle, John Erick Dowdle",John Erick Dowdle,Mystery & Suspense,"$27,274,112.00 ",101 minutes
+305.0,Love and Honor,PG-13,3/21/2013 0:00,"Jim Burnstein, Garrett K. Schiff",Danny Mooney,"Drama, Romance",-,92 minutes
+306.0,The Campaign,R,8/9/2012 0:00,"Adam McKay, Shane Harwell, Shawn Harwell, Chris Henchy",Jay Roach,Comedy,"$86,897,182.00 ",86 minutes
+307.0,21 Jump Street,R,3/15/2012 0:00,"Michael Bacall, Patrick Hasburgh, Jonah Hill, Stephen J. Cannell","Chris Miller, Christopher Miller, Phil Lord","Action & Adventure, Comedy","$134,000,000.00 ",109 minutes
+308.0,Remember,R,3/10/2016 0:00,Benjamin August,Atom Egoyan,"Art House & International, Drama, Mystery & Suspense","$1,986,615.00 ",95 minutes
+309.0,Good People,R,9/25/2014 0:00,Kelly Masterson,Henrik Ruben Genz,"Drama, Mystery & Suspense",-,90 minutes
+310.0,About Time,R,10/31/2013 0:00,Richard Curtis,Richard Curtis,"Comedy, Drama, Science Fiction & Fantasy","$87,100,449.00 ",123 minutes
+311.0,The Hundred-Foot Journey,PG,8/7/2014 0:00,"Richard C. Morais, Steven Knight, John Swetnam","Steven Quale, Lasse Hallstrom, Lasse Hallström",Drama,"$88,880,821.00 ",122 minutes
+312.0,The Counselor,R,10/24/2013 0:00,Cormac McCarthy,Ridley Scott,Mystery & Suspense,"$71,009,334.00 ",117 minutes
+313.0,Fury,R,10/16/2014 0:00,David Ayer,David Ayer,"Action & Adventure, Drama","$211,817,906.00 ",135 minutes
+314.0,Enough Said,PG-13,9/17/2013 0:00,Nicole Holofcener,Nicole Holofcener,"Comedy, Drama, Romance","$25,288,872.00 ",93 minutes
+315.0,Finding Nemo,G,5/29/2003 0:00,"David Reynolds, Andrew Stanton, Bob Peterson","Andrew Stanton, Lee Unkrich","Animation, Comedy, Kids & Family","$380,529,370.00 ",100 minutes
+316.0,Suddenly,Theatrical,9/16/2013 0:00,Raul Inglis,Uwe Boll,"Action & Adventure, Drama, Mystery & Suspense",-,90 minutes
+317.0,Step Up Revolution,PG-13,7/26/2012 0:00,"Cho Youngchan, Jenny Mayer, Amanda Brody",Scott Speer,"Drama, Musical & Performing Arts, Romance","$35,057,332.00 ",98 minutes
+318.0,Woman in Gold,PG-13,3/31/2015 0:00,Alexi Kaye Campbell,Simon Curtis,Drama,"$61,619,773.00 ",110 minutes
+319.0,Straight Outta Compton,R,8/13/2015 0:00,"Andrea Berloff, Jonathan Herman",F. Gary Gray,"Drama, Musical & Performing Arts","$201,634,991.00 ",147 minutes
+320.0,Criminal Activities,R,11/19/2015 0:00,Robert Lowell,Jackie Earle Haley,Drama,-,94 minutes
+321.0,Boulevard,R,7/9/2015 0:00,Douglas Soesbe,Dito Montiel,"Drama, Special Interest","$126,150.00 ",88 minutes
+322.0,The Decoy Bride,PG,3/8/2012 0:00,"Sally Phillips, Neil Jaworski",Sheree Folkson,"Art House & International, Comedy, Drama, Romance",$542.00 ,89 minutes
+323.0,Tusk,R,9/18/2014 0:00,Kevin Smith,Kevin Smith,Horror,"$1,826,705.00 ",102 minutes
+324.0,Extraction,R,12/17/2015 0:00,"Umair Aleem, Max Adams",Steven C. Miller,Mystery & Suspense,"$16,775.00 ",96 minutes
+325.0,Spy,R,6/4/2015 0:00,Paul Feig,Paul Feig,Comedy,"$235,666,219.00 ",117 minutes
+326.0,The Man from U.N.C.L.E.,PG-13,8/13/2015 0:00,"Lionel Wigram, Guy Ritchie",Guy Ritchie,"Action & Adventure, Comedy, Mystery & Suspense","$108,145,109.00 ",116 minutes
+327.0,I Spit on Your Grave 2,R,9/19/2013 0:00,"Neil Elman, Thomas Fenton, Thomas H. Fenton",Steven R. Monroe,"Horror, Mystery & Suspense",$441.00 ,106 minutes
+328.0,Risen,PG-13,2/18/2016 0:00,"Kevin Reynolds, Paul Aiello",Kevin Reynolds,"Action & Adventure, Drama","$46,069,568.00 ",107 minutes
+329.0,Urge,R,6/2/2016 0:00,"Guy Busick, Jason Zumwalt, Jerry Stahl, Aaron Kaufman",Aaron Kaufman,Mystery & Suspense,-,89 minutes
+330.0,Captain Phillips,PG-13,10/10/2013 0:00,Billy Ray,Paul Greengrass,Drama,"$107,100,855.00 ",134 minutes
+331.0,American Ultra,R,8/20/2015 0:00,Max Landis,Nima Nourizadeh,"Action & Adventure, Comedy",-,99 minutes
+332.0,Cars 2,G,6/23/2011 0:00,"Dan Fogelman, Ben Queen, John Lasseter","Brad Lewis, John Lasseter","Action & Adventure, Animation, Comedy, Kids & Family","$191,450,875.00 ",112 minutes
+333.0,The Confirmation,PG-13,3/17/2016 0:00,Bob Nelson,Bob Nelson,Comedy,-,90 minutes
+334.0,To Rome with Love,R,6/21/2012 0:00,Woody Allen,Woody Allen,Comedy,"$16,500,000.00 ",112 minutes
+335.0,Birdman,R,10/16/2014 0:00,"Jr., Nicolás Giacobone, Alejandro González Iñárritu, Alexander Dinelaris, Armando Bo",Alejandro González Iñárritu,"Comedy, Drama","$103,215,094.00 ",119 minutes
+336.0,Annie,PG,12/18/2014 0:00,"Aline Brosh McKenna, Thomas Meehan, Will Gluck, Emma Thompson",Will Gluck,"Drama, Kids & Family, Musical & Performing Arts","$133,821,816.00 ",118 minutes
+337.0,And So It Goes,PG-13,7/24/2014 0:00,Mark Andrus,Rob Reiner,"Comedy, Drama, Romance","$25,312,387.00 ",94 minutes
+338.0,Teenage Mutant Ninja Turtles,PG-13,8/7/2014 0:00,"André Nemec, Evan Daugherty, Josh Appelbaum",Jonathan Liebesman,"Action & Adventure, Science Fiction & Fantasy","$477,200,000.00 ",101 minutes
+339.0,Sniper: Special Ops,R,4/3/2016 0:00,Fred Olen Ray,Fred Olen Ray,"Action,War",-,84 minutes
+340.0,Barbershop: The Next Cut,PG-13,4/14/2016 0:00,"Tracy Oliver, Kenya Barris",Malcolm D. Lee,Comedy,"$54,014,580.00 ",112 minutes
+341.0,Begin Again,R,6/26/2014 0:00,John Carney,John Carney,"Comedy, Drama, Musical & Performing Arts","$63,464,861.00 ",101 minutes
+342.0,Jinn,PG-13,4/3/2014 0:00,Ajmal Zaheer Ahmad,Ajmal Zaheer Ahmad,"Horror, Mystery & Suspense, Science Fiction & Fantasy","$149,337.00 ",97 minutes
+343.0,Moneyball,PG-13,9/22/2011 0:00,"Aaron Sorkin, Steven Zaillian",Bennett Miller,Drama,"$75,605,492.00 ",133 minutes
+344.0,Rock of Ages,PG-13,6/14/2012 0:00,"Justin Theroux, Allan Loeb, Chris D'Arienzo",Adam Shankman,"Drama, Musical & Performing Arts","$38,509,342.00 ",123 minutes
+345.0,47 Ronin,PG-13,12/24/2013 0:00,"Hossein Amini, Chris Morgan","Carl Erik Rinsch, Carl Rinsch","Action & Adventure, Drama, Science Fiction & Fantasy","$150,962,475.00 ",127 minutes
+346.0,The Lunchbox,PG,2/27/2014 0:00,Ritesh Batra,Ritesh Batra,"Drama, Romance","$4,231,500.00 ",104 minutes
+347.0,Big Game,PG-13,6/25/2015 0:00,"Petri Jokiranta, Jalmari Helander",Jalmari Helander,Action & Adventure,"$7,500,000.00 ",90 minutes
+348.0,High-Rise,R,5/12/2016 0:00,Amy Jump,Ben Wheatley,"Action & Adventure, Art House & International, Drama, Science Fiction & Fantasy","$343,139.00 ",112 minutes
+349.0,Tarzan,PG,5/8/2014 0:00,"Jessica Postigo Paquette, Jessica Postigo, Yoni Brenner, Edgar Rice Burroughs, Reinhard Klooss",Reinhard Klooss,"Animation, Art House & International, Kids & Family",-,94 minutes
+350.0,The Dark Knight Rises,PG-13,7/19/2012 0:00,"Bob Kane, Christopher Nolan, Jonathan Nolan",Christopher Nolan,"Action & Adventure, Drama, Mystery & Suspense","$448,130,642.00 ",165 minutes
